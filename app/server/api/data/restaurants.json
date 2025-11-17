@@ -1,1281 +1,1501 @@
-[
+  [
   {
-    "id": 1,
-    "name": "رستوران شماره 1",
-    "type": "ایرانی",
-    "description": "رستورانی با سبک ایرانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 1",
-    "location": {
-      "lat": 30.279026,
-      "lng": 57.077315
-    },
-    "phone": "034-330001",
-    "rating": 3.8,
-    "image": "https://picsum.photos/seed/restaurant1/600/400",
-    "menu": [
-      {
-        "name": "چلوکباب",
-        "price": 216175,
-        "desc": "چلوکباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant1/600/400"
-      },
-      {
-        "name": "جوجه‌کباب",
-        "price": 439905,
-        "desc": "جوجه‌کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant1/600/400"
-      },
-      {
-        "name": "قرمه‌سبزی",
-        "price": 273517,
-        "desc": "قرمه‌سبزی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant1/600/400"
-      },
-      {
-        "name": "قیمه",
-        "price": 356987,
-        "desc": "قیمه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant1/600/400"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "رستوران شماره 2",
-    "type": "ایرانی",
-    "description": "رستورانی با سبک ایرانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 2",
-    "location": {
-      "lat": 30.288198,
-      "lng": 57.092154
-    },
-    "phone": "034-330002",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant2/600/400",
-    "menu": [
-      {
-        "name": "چلوکباب",
-        "price": 160649,
-        "desc": "چلوکباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant2/600/400"
-      },
-      {
-        "name": "جوجه‌کباب",
-        "price": 419134,
-        "desc": "جوجه‌کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant2/600/400"
-      },
-      {
-        "name": "قرمه‌سبزی",
-        "price": 335037,
-        "desc": "قرمه‌سبزی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant2/600/400"
-      },
-      {
-        "name": "قیمه",
-        "price": 304885,
-        "desc": "قیمه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant2/600/400"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "رستوران شماره 3",
-    "type": "ایرانی",
-    "description": "رستورانی با سبک ایرانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 3",
-    "location": {
-      "lat": 30.286987,
-      "lng": 57.082147
-    },
-    "phone": "034-330003",
-    "rating": 4.6,
-    "image": "https://picsum.photos/seed/restaurant3/600/400",
-    "menu": [
-      {
-        "name": "چلوکباب",
-        "price": 449017,
-        "desc": "چلوکباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant3/600/400"
-      },
-      {
-        "name": "جوجه‌کباب",
-        "price": 171782,
-        "desc": "جوجه‌کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant3/600/400"
-      },
-      {
-        "name": "قرمه‌سبزی",
-        "price": 383510,
-        "desc": "قرمه‌سبزی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant3/600/400"
-      },
-      {
-        "name": "قیمه",
-        "price": 202985,
-        "desc": "قیمه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant3/600/400"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "رستوران شماره 4",
-    "type": "ایرانی",
-    "description": "رستورانی با سبک ایرانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 4",
-    "location": {
-      "lat": 30.284193,
-      "lng": 57.076725
-    },
-    "phone": "034-330004",
-    "rating": 3.8,
-    "image": "https://picsum.photos/seed/restaurant4/600/400",
-    "menu": [
-      {
-        "name": "چلوکباب",
-        "price": 211938,
-        "desc": "چلوکباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant4/600/400"
-      },
-      {
-        "name": "جوجه‌کباب",
-        "price": 204658,
-        "desc": "جوجه‌کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant4/600/400"
-      },
-      {
-        "name": "قرمه‌سبزی",
-        "price": 401398,
-        "desc": "قرمه‌سبزی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant4/600/400"
-      },
-      {
-        "name": "قیمه",
-        "price": 215698,
-        "desc": "قیمه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant4/600/400"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "رستوران شماره 5",
-    "type": "فست‌فود",
-    "description": "رستورانی با سبک فست‌فود و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 5",
-    "location": {
-      "lat": 30.285831,
-      "lng": 57.084139
-    },
-    "phone": "034-330005",
-    "rating": 4.2,
-    "image": "https://picsum.photos/seed/restaurant5/600/400",
-    "menu": [
-      {
-        "name": "برگر",
-        "price": 194127,
-        "desc": "برگر تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant5/600/400"
-      },
-      {
-        "name": "پیتزا",
-        "price": 432525,
-        "desc": "پیتزا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant5/600/400"
-      },
-      {
-        "name": "هات‌داگ",
-        "price": 182430,
-        "desc": "هات‌داگ تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant5/600/400"
-      },
-      {
-        "name": "سیب‌زمینی",
-        "price": 165311,
-        "desc": "سیب‌زمینی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant5/600/400"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "رستوران شماره 6",
-    "type": "فست‌فود",
-    "description": "رستورانی با سبک فست‌فود و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 6",
-    "location": {
-      "lat": 30.288748,
-      "lng": 57.078566
-    },
-    "phone": "034-330006",
+    "id": "rest_1",
+    "name": "کافه ویونا",
+    "category": "پیتزا",
     "rating": 4.0,
-    "image": "https://picsum.photos/seed/restaurant6/600/400",
-    "menu": [
-      {
-        "name": "برگر",
-        "price": 176168,
-        "desc": "برگر تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant6/600/400"
-      },
-      {
-        "name": "پیتزا",
-        "price": 233477,
-        "desc": "پیتزا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant6/600/400"
-      },
-      {
-        "name": "هات‌داگ",
-        "price": 211304,
-        "desc": "هات‌داگ تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant6/600/400"
-      },
-      {
-        "name": "سیب‌زمینی",
-        "price": 309245,
-        "desc": "سیب‌زمینی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant6/600/400"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "رستوران شماره 7",
-    "type": "فست‌فود",
-    "description": "رستورانی با سبک فست‌فود و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 7",
+    "ratingCount": 788,
+    "description": "پیتزاهای تنوری خوش‌طعم با مواد اولیه درجه یک.",
+    "address": "کرمان، خیابان 10",
     "location": {
-      "lat": 30.289017,
-      "lng": 57.080587
+      "lat": 30.287975236481486,
+      "lng": 57.0845110217968
     },
-    "phone": "034-330007",
-    "rating": 4.6,
-    "image": "https://picsum.photos/seed/restaurant7/600/400",
+    "image": "/images/restaurants/rest_1.jpg",
     "menu": [
       {
-        "name": "برگر",
-        "price": 203702,
-        "desc": "برگر تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant7/600/400"
+        "id": "rest_1_item_1",
+        "name": "پیتزا پپرونی",
+        "price": 459599,
+        "image": "/images/foods/rest_1_1.jpg",
+        "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
-        "name": "پیتزا",
-        "price": 321752,
-        "desc": "پیتزا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant7/600/400"
-      },
-      {
-        "name": "هات‌داگ",
-        "price": 389570,
-        "desc": "هات‌داگ تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant7/600/400"
-      },
-      {
-        "name": "سیب‌زمینی",
-        "price": 196716,
-        "desc": "سیب‌زمینی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant7/600/400"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "رستوران شماره 8",
-    "type": "فست‌فود",
-    "description": "رستورانی با سبک فست‌فود و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 8",
-    "location": {
-      "lat": 30.280892,
-      "lng": 57.083361
-    },
-    "phone": "034-330008",
-    "rating": 4.9,
-    "image": "https://picsum.photos/seed/restaurant8/600/400",
-    "menu": [
-      {
-        "name": "برگر",
-        "price": 362831,
-        "desc": "برگر تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant8/600/400"
-      },
-      {
-        "name": "پیتزا",
-        "price": 257864,
-        "desc": "پیتزا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant8/600/400"
-      },
-      {
-        "name": "هات‌داگ",
-        "price": 426554,
-        "desc": "هات‌داگ تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant8/600/400"
-      },
-      {
-        "name": "سیب‌زمینی",
-        "price": 220781,
-        "desc": "سیب‌زمینی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant8/600/400"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "رستوران شماره 9",
-    "type": "ایتالیایی",
-    "description": "رستورانی با سبک ایتالیایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 9",
-    "location": {
-      "lat": 30.293755,
-      "lng": 57.093296
-    },
-    "phone": "034-330009",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant9/600/400",
-    "menu": [
-      {
-        "name": "پاستا",
-        "price": 364047,
-        "desc": "پاستا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant9/600/400"
-      },
-      {
+        "id": "rest_1_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 255486,
-        "desc": "پیتزا مارگاریتا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant9/600/400"
+        "price": 234174,
+        "image": "/images/foods/rest_1_2.jpg",
+        "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
       {
-        "name": "اسپاگتی",
-        "price": 309884,
-        "desc": "اسپاگتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant9/600/400"
+        "id": "rest_1_item_3",
+        "name": "پیتزا چیکن گریل",
+        "price": 524000,
+        "image": "/images/foods/rest_1_3.jpg",
+        "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
       },
       {
-        "name": "ریزوٹو",
-        "price": 331260,
-        "desc": "ریزوٹو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant9/600/400"
+        "id": "rest_1_item_4",
+        "name": "پیتزا چهار فصل",
+        "price": 205828,
+        "image": "/images/foods/rest_1_4.jpg",
+        "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_1",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_1",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 10,
-    "name": "رستوران شماره 10",
-    "type": "ایتالیایی",
-    "description": "رستورانی با سبک ایتالیایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 10",
+    "id": "rest_2",
+    "name": "پیتزا خاتون",
+    "category": "ایرانی",
+    "rating": 4.4,
+    "ratingCount": 504,
+    "description": "غذاهای اصیل ایرانی با کیفیت بالا و مواد اولیه تازه.",
+    "address": "کرمان، خیابان 16",
     "location": {
-      "lat": 30.286928,
-      "lng": 57.087466
+      "lat": 30.28653923472846,
+      "lng": 57.08682363412525
     },
-    "phone": "034-330010",
+    "image": "/images/restaurants/rest_2.jpg",
+    "menu": [
+      {
+        "id": "rest_2_item_1",
+        "name": "چلوکباب برگ",
+        "price": 310500,
+        "image": "/images/foods/rest_2_1.jpg",
+        "description": "چلوکباب برگ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_2_item_2",
+        "name": "چلوکباب کوبیده",
+        "price": 508684,
+        "image": "/images/foods/rest_2_2.jpg",
+        "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_2_item_3",
+        "name": "جوجه کباب",
+        "price": 211093,
+        "image": "/images/foods/rest_2_3.jpg",
+        "description": "جوجه کباب تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_2_item_4",
+        "name": "بریانی",
+        "price": 281133,
+        "image": "/images/foods/rest_2_4.jpg",
+        "description": "بریانی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_2",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_2",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_3",
+    "name": "بریانی حاج محمود",
+    "category": "ایرانی",
+    "rating": 4.4,
+    "ratingCount": 861,
+    "description": "غذاهای اصیل ایرانی با کیفیت بالا و مواد اولیه تازه.",
+    "address": "کرمان، خیابان 23",
+    "location": {
+      "lat": 30.28049820131494,
+      "lng": 57.0796789606579
+    },
+    "image": "/images/restaurants/rest_3.jpg",
+    "menu": [
+      {
+        "id": "rest_3_item_1",
+        "name": "چلوکباب برگ",
+        "price": 456133,
+        "image": "/images/foods/rest_3_1.jpg",
+        "description": "چلوکباب برگ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_3_item_2",
+        "name": "چلوکباب کوبیده",
+        "price": 534057,
+        "image": "/images/foods/rest_3_2.jpg",
+        "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_3_item_3",
+        "name": "جوجه کباب",
+        "price": 336960,
+        "image": "/images/foods/rest_3_3.jpg",
+        "description": "جوجه کباب تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_3_item_4",
+        "name": "بریانی",
+        "price": 498720,
+        "image": "/images/foods/rest_3_4.jpg",
+        "description": "بریانی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_3",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_3",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_4",
+    "name": "رستوران شاندیز",
+    "category": "فست‌فود",
+    "rating": 4.8,
+    "ratingCount": 542,
+    "description": "انواع فست‌فودهای خوش‌طعم و سریع.",
+    "address": "کرمان، خیابان 12",
+    "location": {
+      "lat": 30.301137159746894,
+      "lng": 57.07866467337709
+    },
+    "image": "/images/restaurants/rest_4.jpg",
+    "menu": [
+      {
+        "id": "rest_4_item_1",
+        "name": "هات‌داگ ویژه",
+        "price": 211359,
+        "image": "/images/foods/rest_4_1.jpg",
+        "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_4_item_2",
+        "name": "چیزفرایز",
+        "price": 194105,
+        "image": "/images/foods/rest_4_2.jpg",
+        "description": "چیزفرایز تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_4_item_3",
+        "name": "اسنک مرغ",
+        "price": 238417,
+        "image": "/images/foods/rest_4_3.jpg",
+        "description": "اسنک مرغ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_4_item_4",
+        "name": "سوخاری اسپایسی",
+        "price": 371865,
+        "image": "/images/foods/rest_4_4.jpg",
+        "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_4",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_4",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_5",
+    "name": "ته‌دیگ بار",
+    "category": "پیتزا",
+    "rating": 3.9,
+    "ratingCount": 627,
+    "description": "پیتزاهای تنوری خوش‌طعم با مواد اولیه درجه یک.",
+    "address": "کرمان، خیابان 11",
+    "location": {
+      "lat": 30.286563067548716,
+      "lng": 57.055897112104895
+    },
+    "image": "/images/restaurants/rest_5.jpg",
+    "menu": [
+      {
+        "id": "rest_5_item_1",
+        "name": "پیتزا پپرونی",
+        "price": 526657,
+        "image": "/images/foods/rest_5_1.jpg",
+        "description": "پیتزا پپرونی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_5_item_2",
+        "name": "پیتزا مارگاریتا",
+        "price": 521368,
+        "image": "/images/foods/rest_5_2.jpg",
+        "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_5_item_3",
+        "name": "پیتزا چیکن گریل",
+        "price": 398321,
+        "image": "/images/foods/rest_5_3.jpg",
+        "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_5_item_4",
+        "name": "پیتزا چهار فصل",
+        "price": 527406,
+        "image": "/images/foods/rest_5_4.jpg",
+        "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_5",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_5",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_6",
+    "name": "ساندویچ محسن",
+    "category": "برگر",
     "rating": 4.2,
-    "image": "https://picsum.photos/seed/restaurant10/600/400",
+    "ratingCount": 432,
+    "description": "برگرهای دست‌ساز با گوشت تازه و نان مخصوص.",
+    "address": "کرمان، خیابان 45",
+    "location": {
+      "lat": 30.291244747690774,
+      "lng": 57.02920661046263
+    },
+    "image": "/images/restaurants/rest_6.jpg",
     "menu": [
       {
-        "name": "پاستا",
-        "price": 364458,
-        "desc": "پاستا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant10/600/400"
+        "id": "rest_6_item_1",
+        "name": "چیزبرگر دوبل",
+        "price": 493302,
+        "image": "/images/foods/rest_6_1.jpg",
+        "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
       },
       {
-        "name": "پیتزا مارگاریتا",
-        "price": 259881,
-        "desc": "پیتزا مارگاریتا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant10/600/400"
+        "id": "rest_6_item_2",
+        "name": "برگر مخصوص",
+        "price": 419949,
+        "image": "/images/foods/rest_6_2.jpg",
+        "description": "برگر مخصوص تازه و با کیفیت عالی"
       },
       {
-        "name": "اسپاگتی",
-        "price": 387126,
-        "desc": "اسپاگتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant10/600/400"
+        "id": "rest_6_item_3",
+        "name": "مک برگر",
+        "price": 498643,
+        "image": "/images/foods/rest_6_3.jpg",
+        "description": "مک برگر تازه و با کیفیت عالی"
       },
       {
-        "name": "ریزوٹو",
-        "price": 446734,
-        "desc": "ریزوٹو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant10/600/400"
+        "id": "rest_6_item_4",
+        "name": "برگر دودی",
+        "price": 480038,
+        "image": "/images/foods/rest_6_4.jpg",
+        "description": "برگر دودی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_6",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_6",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 11,
-    "name": "رستوران شماره 11",
-    "type": "ایتالیایی",
-    "description": "رستورانی با سبک ایتالیایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 11",
+    "id": "rest_7",
+    "name": "رستوران پردیس",
+    "category": "آسیایی",
+    "rating": 4.7,
+    "ratingCount": 94,
+    "description": "غذاهای سبک و خوش‌طعم آسیایی با طعم‌های خاص.",
+    "address": "کرمان، خیابان 11",
     "location": {
-      "lat": 30.281111,
-      "lng": 57.083248
+      "lat": 30.296838677260068,
+      "lng": 57.04254400712684
     },
-    "phone": "034-330011",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant11/600/400",
+    "image": "/images/restaurants/rest_7.jpg",
     "menu": [
       {
-        "name": "پاستا",
-        "price": 393076,
-        "desc": "پاستا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant11/600/400"
+        "id": "rest_7_item_1",
+        "name": "رمن ژاپنی",
+        "price": 549476,
+        "image": "/images/foods/rest_7_1.jpg",
+        "description": "رمن ژاپنی تازه و با کیفیت عالی"
       },
       {
-        "name": "پیتزا مارگاریتا",
-        "price": 233435,
-        "desc": "پیتزا مارگاریتا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant11/600/400"
+        "id": "rest_7_item_2",
+        "name": "چیکن تریاکی",
+        "price": 294593,
+        "image": "/images/foods/rest_7_2.jpg",
+        "description": "چیکن تریاکی تازه و با کیفیت عالی"
       },
       {
-        "name": "اسپاگتی",
-        "price": 359633,
-        "desc": "اسپاگتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant11/600/400"
+        "id": "rest_7_item_3",
+        "name": "نودل سبزیجات",
+        "price": 208421,
+        "image": "/images/foods/rest_7_3.jpg",
+        "description": "نودل سبزیجات تازه و با کیفیت عالی"
       },
       {
-        "name": "ریزوٹو",
-        "price": 384786,
-        "desc": "ریزوٹو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant11/600/400"
+        "id": "rest_7_item_4",
+        "name": "سوپ میسو",
+        "price": 414625,
+        "image": "/images/foods/rest_7_4.jpg",
+        "description": "سوپ میسو تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_7",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_7",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 12,
-    "name": "رستوران شماره 12",
-    "type": "ایتالیایی",
-    "description": "رستورانی با سبک ایتالیایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 12",
+    "id": "rest_8",
+    "name": "کافه لمیز",
+    "category": "قهوه",
+    "rating": 4.8,
+    "ratingCount": 207,
+    "description": "انواع نوشیدنی‌های گرم و سرد تهیه‌شده با بهترین دانه‌های قهوه.",
+    "address": "کرمان، خیابان 10",
     "location": {
-      "lat": 30.274701,
-      "lng": 57.081701
+      "lat": 30.289467430725777,
+      "lng": 57.06132949419336
     },
-    "phone": "034-330012",
-    "rating": 3.7,
-    "image": "https://picsum.photos/seed/restaurant12/600/400",
+    "image": "/images/restaurants/rest_8.jpg",
     "menu": [
       {
-        "name": "پاستا",
-        "price": 240519,
-        "desc": "پاستا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant12/600/400"
-      },
-      {
-        "name": "پیتزا مارگاریتا",
-        "price": 334414,
-        "desc": "پیتزا مارگاریتا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant12/600/400"
-      },
-      {
-        "name": "اسپاگتی",
-        "price": 407047,
-        "desc": "اسپاگتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant12/600/400"
-      },
-      {
-        "name": "ریزوٹو",
-        "price": 286029,
-        "desc": "ریزوٹو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant12/600/400"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "رستوران شماره 13",
-    "type": "کافه",
-    "description": "رستورانی با سبک کافه و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 13",
-    "location": {
-      "lat": 30.293243,
-      "lng": 57.073998
-    },
-    "phone": "034-330013",
-    "rating": 4.5,
-    "image": "https://picsum.photos/seed/restaurant13/600/400",
-    "menu": [
-      {
-        "name": "کیک شکلاتی",
-        "price": 368158,
-        "desc": "کیک شکلاتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant13/600/400"
-      },
-      {
-        "name": "کاپوچینو",
-        "price": 440412,
-        "desc": "کاپوچینو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant13/600/400"
-      },
-      {
+        "id": "rest_8_item_1",
         "name": "لاته",
-        "price": 219465,
-        "desc": "لاته تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant13/600/400"
+        "price": 399234,
+        "image": "/images/foods/rest_8_1.jpg",
+        "description": "لاته تازه و با کیفیت عالی"
       },
       {
+        "id": "rest_8_item_2",
+        "name": "کاپوچینو",
+        "price": 224875,
+        "image": "/images/foods/rest_8_2.jpg",
+        "description": "کاپوچینو تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_8_item_3",
+        "name": "آمریکانو",
+        "price": 418965,
+        "image": "/images/foods/rest_8_3.jpg",
+        "description": "آمریکانو تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_8_item_4",
         "name": "موکا",
-        "price": 272092,
-        "desc": "موکا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant13/600/400"
+        "price": 334843,
+        "image": "/images/foods/rest_8_4.jpg",
+        "description": "موکا تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_8",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_8",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 14,
-    "name": "رستوران شماره 14",
-    "type": "کافه",
-    "description": "رستورانی با سبک کافه و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 14",
+    "id": "rest_9",
+    "name": "رستوران امید",
+    "category": "دسر",
+    "rating": 4.9,
+    "ratingCount": 895,
+    "description": "دسرهای خوشمزه و تازه مناسب هر سلیقه.",
+    "address": "کرمان، خیابان 28",
     "location": {
-      "lat": 30.282464,
-      "lng": 57.081715
+      "lat": 30.265377446205207,
+      "lng": 57.06731014883121
     },
-    "phone": "034-330014",
-    "rating": 3.5,
-    "image": "https://picsum.photos/seed/restaurant14/600/400",
+    "image": "/images/restaurants/rest_9.jpg",
     "menu": [
       {
+        "id": "rest_9_item_1",
         "name": "کیک شکلاتی",
-        "price": 374199,
-        "desc": "کیک شکلاتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant14/600/400"
+        "price": 484514,
+        "image": "/images/foods/rest_9_1.jpg",
+        "description": "کیک شکلاتی تازه و با کیفیت عالی"
       },
       {
-        "name": "کاپوچینو",
-        "price": 348779,
-        "desc": "کاپوچینو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant14/600/400"
+        "id": "rest_9_item_2",
+        "name": "ژله میوه‌ای",
+        "price": 482670,
+        "image": "/images/foods/rest_9_2.jpg",
+        "description": "ژله میوه‌ای تازه و با کیفیت عالی"
       },
       {
-        "name": "لاته",
-        "price": 256153,
-        "desc": "لاته تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant14/600/400"
+        "id": "rest_9_item_3",
+        "name": "کرم کارامل",
+        "price": 346261,
+        "image": "/images/foods/rest_9_3.jpg",
+        "description": "کرم کارامل تازه و با کیفیت عالی"
       },
       {
-        "name": "موکا",
-        "price": 437746,
-        "desc": "موکا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant14/600/400"
+        "id": "rest_9_item_4",
+        "name": "تیرامیسو",
+        "price": 182039,
+        "image": "/images/foods/rest_9_4.jpg",
+        "description": "تیرامیسو تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_9",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_9",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 15,
-    "name": "رستوران شماره 15",
-    "type": "کافه",
-    "description": "رستورانی با سبک کافه و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 15",
-    "location": {
-      "lat": 30.289234,
-      "lng": 57.092577
-    },
-    "phone": "034-330015",
+    "id": "rest_10",
+    "name": "پیتزا ریحون",
+    "category": "قهوه",
     "rating": 4.1,
-    "image": "https://picsum.photos/seed/restaurant15/600/400",
+    "ratingCount": 457,
+    "description": "انواع نوشیدنی‌های گرم و سرد تهیه‌شده با بهترین دانه‌های قهوه.",
+    "address": "کرمان، خیابان 51",
+    "location": {
+      "lat": 30.28306449518204,
+      "lng": 57.07932138506773
+    },
+    "image": "/images/restaurants/rest_10.jpg",
     "menu": [
       {
-        "name": "کیک شکلاتی",
-        "price": 419172,
-        "desc": "کیک شکلاتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant15/600/400"
-      },
-      {
-        "name": "کاپوچینو",
-        "price": 271576,
-        "desc": "کاپوچینو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant15/600/400"
-      },
-      {
+        "id": "rest_10_item_1",
         "name": "لاته",
-        "price": 183005,
-        "desc": "لاته تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant15/600/400"
+        "price": 495387,
+        "image": "/images/foods/rest_10_1.jpg",
+        "description": "لاته تازه و با کیفیت عالی"
       },
       {
-        "name": "موکا",
-        "price": 330742,
-        "desc": "موکا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant15/600/400"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "رستوران شماره 16",
-    "type": "کافه",
-    "description": "رستورانی با سبک کافه و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 16",
-    "location": {
-      "lat": 30.280101,
-      "lng": 57.074068
-    },
-    "phone": "034-330016",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant16/600/400",
-    "menu": [
-      {
-        "name": "کیک شکلاتی",
-        "price": 246132,
-        "desc": "کیک شکلاتی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant16/600/400"
-      },
-      {
+        "id": "rest_10_item_2",
         "name": "کاپوچینو",
-        "price": 185319,
-        "desc": "کاپوچینو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant16/600/400"
+        "price": 420011,
+        "image": "/images/foods/rest_10_2.jpg",
+        "description": "کاپوچینو تازه و با کیفیت عالی"
       },
       {
-        "name": "لاته",
-        "price": 428123,
-        "desc": "لاته تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant16/600/400"
+        "id": "rest_10_item_3",
+        "name": "آمریکانو",
+        "price": 227543,
+        "image": "/images/foods/rest_10_3.jpg",
+        "description": "آمریکانو تازه و با کیفیت عالی"
       },
       {
+        "id": "rest_10_item_4",
         "name": "موکا",
-        "price": 416307,
-        "desc": "موکا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant16/600/400"
+        "price": 317566,
+        "image": "/images/foods/rest_10_4.jpg",
+        "description": "موکا تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_10",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_10",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
       }
     ]
   },
   {
-    "id": 17,
-    "name": "رستوران شماره 17",
-    "type": "دریایی",
-    "description": "رستورانی با سبک دریایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 17",
-    "location": {
-      "lat": 30.277551,
-      "lng": 57.077279
-    },
-    "phone": "034-330017",
-    "rating": 5.0,
-    "image": "https://picsum.photos/seed/restaurant17/600/400",
-    "menu": [
-      {
-        "name": "میگو سوخاری",
-        "price": 240046,
-        "desc": "میگو سوخاری تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant17/600/400"
-      },
-      {
-        "name": "ماهی گریل",
-        "price": 204970,
-        "desc": "ماهی گریل تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant17/600/400"
-      },
-      {
-        "name": "خوراک میگو",
-        "price": 221812,
-        "desc": "خوراک میگو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant17/600/400"
-      },
-      {
-        "name": "سوپ دریایی",
-        "price": 243349,
-        "desc": "سوپ دریایی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant17/600/400"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "رستوران شماره 18",
-    "type": "دریایی",
-    "description": "رستورانی با سبک دریایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 18",
-    "location": {
-      "lat": 30.282253,
-      "lng": 57.085745
-    },
-    "phone": "034-330018",
-    "rating": 3.9,
-    "image": "https://picsum.photos/seed/restaurant18/600/400",
-    "menu": [
-      {
-        "name": "میگو سوخاری",
-        "price": 426518,
-        "desc": "میگو سوخاری تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant18/600/400"
-      },
-      {
-        "name": "ماهی گریل",
-        "price": 286910,
-        "desc": "ماهی گریل تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant18/600/400"
-      },
-      {
-        "name": "خوراک میگو",
-        "price": 303795,
-        "desc": "خوراک میگو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant18/600/400"
-      },
-      {
-        "name": "سوپ دریایی",
-        "price": 362510,
-        "desc": "سوپ دریایی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant18/600/400"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "رستوران شماره 19",
-    "type": "دریایی",
-    "description": "رستورانی با سبک دریایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 19",
-    "location": {
-      "lat": 30.274356,
-      "lng": 57.077039
-    },
-    "phone": "034-330019",
-    "rating": 4.2,
-    "image": "https://picsum.photos/seed/restaurant19/600/400",
-    "menu": [
-      {
-        "name": "میگو سوخاری",
-        "price": 272991,
-        "desc": "میگو سوخاری تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant19/600/400"
-      },
-      {
-        "name": "ماهی گریل",
-        "price": 166506,
-        "desc": "ماهی گریل تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant19/600/400"
-      },
-      {
-        "name": "خوراک میگو",
-        "price": 157477,
-        "desc": "خوراک میگو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant19/600/400"
-      },
-      {
-        "name": "سوپ دریایی",
-        "price": 378836,
-        "desc": "سوپ دریایی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant19/600/400"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "رستوران شماره 20",
-    "type": "دریایی",
-    "description": "رستورانی با سبک دریایی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 20",
-    "location": {
-      "lat": 30.292066,
-      "lng": 57.081206
-    },
-    "phone": "034-330020",
-    "rating": 3.8,
-    "image": "https://picsum.photos/seed/restaurant20/600/400",
-    "menu": [
-      {
-        "name": "میگو سوخاری",
-        "price": 168989,
-        "desc": "میگو سوخاری تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant20/600/400"
-      },
-      {
-        "name": "ماهی گریل",
-        "price": 176131,
-        "desc": "ماهی گریل تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant20/600/400"
-      },
-      {
-        "name": "خوراک میگو",
-        "price": 300967,
-        "desc": "خوراک میگو تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant20/600/400"
-      },
-      {
-        "name": "سوپ دریایی",
-        "price": 347011,
-        "desc": "سوپ دریایی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant20/600/400"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "رستوران شماره 21",
-    "type": "ترکی",
-    "description": "رستورانی با سبک ترکی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 21",
-    "location": {
-      "lat": 30.276627,
-      "lng": 57.089914
-    },
-    "phone": "034-330021",
-    "rating": 5.0,
-    "image": "https://picsum.photos/seed/restaurant21/600/400",
-    "menu": [
-      {
-        "name": "دونر کباب",
-        "price": 373944,
-        "desc": "دونر کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant21/600/400"
-      },
-      {
-        "name": "کوفته ترکی",
-        "price": 258390,
-        "desc": "کوفته ترکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant21/600/400"
-      },
-      {
-        "name": "لاهماجون",
-        "price": 172586,
-        "desc": "لاهماجون تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant21/600/400"
-      },
-      {
-        "name": "پیدا",
-        "price": 449734,
-        "desc": "پیدا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant21/600/400"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "رستوران شماره 22",
-    "type": "ترکی",
-    "description": "رستورانی با سبک ترکی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 22",
-    "location": {
-      "lat": 30.288533,
-      "lng": 57.083958
-    },
-    "phone": "034-330022",
-    "rating": 4.5,
-    "image": "https://picsum.photos/seed/restaurant22/600/400",
-    "menu": [
-      {
-        "name": "دونر کباب",
-        "price": 359450,
-        "desc": "دونر کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant22/600/400"
-      },
-      {
-        "name": "کوفته ترکی",
-        "price": 160926,
-        "desc": "کوفته ترکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant22/600/400"
-      },
-      {
-        "name": "لاهماجون",
-        "price": 271160,
-        "desc": "لاهماجون تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant22/600/400"
-      },
-      {
-        "name": "پیدا",
-        "price": 247273,
-        "desc": "پیدا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant22/600/400"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "name": "رستوران شماره 23",
-    "type": "ترکی",
-    "description": "رستورانی با سبک ترکی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 23",
-    "location": {
-      "lat": 30.292779,
-      "lng": 57.075089
-    },
-    "phone": "034-330023",
-    "rating": 5.0,
-    "image": "https://picsum.photos/seed/restaurant23/600/400",
-    "menu": [
-      {
-        "name": "دونر کباب",
-        "price": 200797,
-        "desc": "دونر کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant23/600/400"
-      },
-      {
-        "name": "کوفته ترکی",
-        "price": 294840,
-        "desc": "کوفته ترکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant23/600/400"
-      },
-      {
-        "name": "لاهماجون",
-        "price": 202494,
-        "desc": "لاهماجون تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant23/600/400"
-      },
-      {
-        "name": "پیدا",
-        "price": 242882,
-        "desc": "پیدا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant23/600/400"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "name": "رستوران شماره 24",
-    "type": "ترکی",
-    "description": "رستورانی با سبک ترکی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 24",
-    "location": {
-      "lat": 30.276671,
-      "lng": 57.085837
-    },
-    "phone": "034-330024",
-    "rating": 4.8,
-    "image": "https://picsum.photos/seed/restaurant24/600/400",
-    "menu": [
-      {
-        "name": "دونر کباب",
-        "price": 432739,
-        "desc": "دونر کباب تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant24/600/400"
-      },
-      {
-        "name": "کوفته ترکی",
-        "price": 202323,
-        "desc": "کوفته ترکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant24/600/400"
-      },
-      {
-        "name": "لاهماجون",
-        "price": 367099,
-        "desc": "لاهماجون تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant24/600/400"
-      },
-      {
-        "name": "پیدا",
-        "price": 323123,
-        "desc": "پیدا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant24/600/400"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "name": "رستوران شماره 25",
-    "type": "ژاپنی",
-    "description": "رستورانی با سبک ژاپنی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 25",
-    "location": {
-      "lat": 30.291889,
-      "lng": 57.088316
-    },
-    "phone": "034-330025",
-    "rating": 3.8,
-    "image": "https://picsum.photos/seed/restaurant25/600/400",
-    "menu": [
-      {
-        "name": "سوشی",
-        "price": 155894,
-        "desc": "سوشی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant25/600/400"
-      },
-      {
-        "name": "رامن",
-        "price": 448851,
-        "desc": "رامن تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant25/600/400"
-      },
-      {
-        "name": "تاکویاکی",
-        "price": 219653,
-        "desc": "تاکویاکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant25/600/400"
-      },
-      {
-        "name": "تِمپورا",
-        "price": 257422,
-        "desc": "تِمپورا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant25/600/400"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "name": "رستوران شماره 26",
-    "type": "ژاپنی",
-    "description": "رستورانی با سبک ژاپنی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 26",
-    "location": {
-      "lat": 30.288711,
-      "lng": 57.083633
-    },
-    "phone": "034-330026",
-    "rating": 4.3,
-    "image": "https://picsum.photos/seed/restaurant26/600/400",
-    "menu": [
-      {
-        "name": "سوشی",
-        "price": 152526,
-        "desc": "سوشی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant26/600/400"
-      },
-      {
-        "name": "رامن",
-        "price": 395232,
-        "desc": "رامن تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant26/600/400"
-      },
-      {
-        "name": "تاکویاکی",
-        "price": 235460,
-        "desc": "تاکویاکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant26/600/400"
-      },
-      {
-        "name": "تِمپورا",
-        "price": 180400,
-        "desc": "تِمپورا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant26/600/400"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "name": "رستوران شماره 27",
-    "type": "ژاپنی",
-    "description": "رستورانی با سبک ژاپنی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 27",
-    "location": {
-      "lat": 30.290258,
-      "lng": 57.073638
-    },
-    "phone": "034-330027",
-    "rating": 4.8,
-    "image": "https://picsum.photos/seed/restaurant27/600/400",
-    "menu": [
-      {
-        "name": "سوشی",
-        "price": 437493,
-        "desc": "سوشی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant27/600/400"
-      },
-      {
-        "name": "رامن",
-        "price": 221448,
-        "desc": "رامن تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant27/600/400"
-      },
-      {
-        "name": "تاکویاکی",
-        "price": 386477,
-        "desc": "تاکویاکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant27/600/400"
-      },
-      {
-        "name": "تِمپورا",
-        "price": 255856,
-        "desc": "تِمپورا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant27/600/400"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "name": "رستوران شماره 28",
-    "type": "ژاپنی",
-    "description": "رستورانی با سبک ژاپنی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 28",
-    "location": {
-      "lat": 30.285335,
-      "lng": 57.091737
-    },
-    "phone": "034-330028",
-    "rating": 3.9,
-    "image": "https://picsum.photos/seed/restaurant28/600/400",
-    "menu": [
-      {
-        "name": "سوشی",
-        "price": 409021,
-        "desc": "سوشی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant28/600/400"
-      },
-      {
-        "name": "رامن",
-        "price": 177557,
-        "desc": "رامن تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant28/600/400"
-      },
-      {
-        "name": "تاکویاکی",
-        "price": 279299,
-        "desc": "تاکویاکی تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant28/600/400"
-      },
-      {
-        "name": "تِمپورا",
-        "price": 272183,
-        "desc": "تِمپورا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant28/600/400"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "name": "رستوران شماره 29",
-    "type": "محلی کرمانی",
-    "description": "رستورانی با سبک محلی کرمانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 29",
-    "location": {
-      "lat": 30.277051,
-      "lng": 57.073472
-    },
-    "phone": "034-330029",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant29/600/400",
-    "menu": [
-      {
-        "name": "کشک‌بادمجان",
-        "price": 440653,
-        "desc": "کشک‌بادمجان تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant29/600/400"
-      },
-      {
-        "name": "آبگوشت بزباش",
-        "price": 249582,
-        "desc": "آبگوشت بزباش تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant29/600/400"
-      },
-      {
-        "name": "دوغ‌پا",
-        "price": 185741,
-        "desc": "دوغ‌پا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant29/600/400"
-      },
-      {
-        "name": "کلمپه",
-        "price": 331694,
-        "desc": "کلمپه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant29/600/400"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "رستوران شماره 30",
-    "type": "محلی کرمانی",
-    "description": "رستورانی با سبک محلی کرمانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 30",
-    "location": {
-      "lat": 30.28011,
-      "lng": 57.084135
-    },
-    "phone": "034-330030",
-    "rating": 4.0,
-    "image": "https://picsum.photos/seed/restaurant30/600/400",
-    "menu": [
-      {
-        "name": "کشک‌بادمجان",
-        "price": 289732,
-        "desc": "کشک‌بادمجان تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant30/600/400"
-      },
-      {
-        "name": "آبگوشت بزباش",
-        "price": 410199,
-        "desc": "آبگوشت بزباش تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant30/600/400"
-      },
-      {
-        "name": "دوغ‌پا",
-        "price": 246433,
-        "desc": "دوغ‌پا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant30/600/400"
-      },
-      {
-        "name": "کلمپه",
-        "price": 331315,
-        "desc": "کلمپه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant30/600/400"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "name": "رستوران شماره 31",
-    "type": "محلی کرمانی",
-    "description": "رستورانی با سبک محلی کرمانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 31",
-    "location": {
-      "lat": 30.283646,
-      "lng": 57.083341
-    },
-    "phone": "034-330031",
-    "rating": 3.6,
-    "image": "https://picsum.photos/seed/restaurant31/600/400",
-    "menu": [
-      {
-        "name": "کشک‌بادمجان",
-        "price": 365694,
-        "desc": "کشک‌بادمجان تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant31/600/400"
-      },
-      {
-        "name": "آبگوشت بزباش",
-        "price": 422784,
-        "desc": "آبگوشت بزباش تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant31/600/400"
-      },
-      {
-        "name": "دوغ‌پا",
-        "price": 212286,
-        "desc": "دوغ‌پا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant31/600/400"
-      },
-      {
-        "name": "کلمپه",
-        "price": 232011,
-        "desc": "کلمپه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant31/600/400"
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "name": "رستوران شماره 32",
-    "type": "محلی کرمانی",
-    "description": "رستورانی با سبک محلی کرمانی و کیفیت مناسب.",
-    "address": "کرمان، خیابان مثال 32",
-    "location": {
-      "lat": 30.278554,
-      "lng": 57.083727
-    },
-    "phone": "034-330032",
+    "id": "rest_11",
+    "name": "کافه کارنو",
+    "category": "ساندویچ",
     "rating": 4.9,
-    "image": "https://picsum.photos/seed/restaurant32/600/400",
+    "ratingCount": 147,
+    "description": "ساندویچ‌های تازه و متنوع مناسب همه سلیقه‌ها.",
+    "address": "کرمان، خیابان 5",
+    "location": {
+      "lat": 30.2850866733347,
+      "lng": 57.08108810927293
+    },
+    "image": "/images/restaurants/rest_11.jpg",
     "menu": [
       {
-        "name": "کشک‌بادمجان",
-        "price": 285744,
-        "desc": "کشک‌بادمجان تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant32/600/400"
+        "id": "rest_11_item_1",
+        "name": "ساندویچ ژامبون",
+        "price": 262730,
+        "image": "/images/foods/rest_11_1.jpg",
+        "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
       },
       {
-        "name": "آبگوشت بزباش",
-        "price": 418890,
-        "desc": "آبگوشت بزباش تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant32/600/400"
+        "id": "rest_11_item_2",
+        "name": "ساندویچ مرغ گریل",
+        "price": 505451,
+        "image": "/images/foods/rest_11_2.jpg",
+        "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
       },
       {
-        "name": "دوغ‌پا",
-        "price": 438864,
-        "desc": "دوغ‌پا تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant32/600/400"
+        "id": "rest_11_item_3",
+        "name": "ساندویچ رست‌بیف",
+        "price": 454315,
+        "image": "/images/foods/rest_11_3.jpg",
+        "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
       },
       {
-        "name": "کلمپه",
-        "price": 402789,
-        "desc": "کلمپه تازه و خوش‌طعم",
-        "image": "https://picsum.photos/seed/restaurant32/600/400"
+        "id": "rest_11_item_4",
+        "name": "ساندویچ هات داگ",
+        "price": 533109,
+        "image": "/images/foods/rest_11_4.jpg",
+        "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_11",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_11",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_12",
+    "name": "رستوران آریانا",
+    "category": "آسیایی",
+    "rating": 4.5,
+    "ratingCount": 297,
+    "description": "غذاهای سبک و خوش‌طعم آسیایی با طعم‌های خاص.",
+    "address": "کرمان، خیابان 6",
+    "location": {
+      "lat": 30.283521355780564,
+      "lng": 57.08783154376963
+    },
+    "image": "/images/restaurants/rest_12.jpg",
+    "menu": [
+      {
+        "id": "rest_12_item_1",
+        "name": "رمن ژاپنی",
+        "price": 515522,
+        "image": "/images/foods/rest_12_1.jpg",
+        "description": "رمن ژاپنی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_12_item_2",
+        "name": "چیکن تریاکی",
+        "price": 492502,
+        "image": "/images/foods/rest_12_2.jpg",
+        "description": "چیکن تریاکی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_12_item_3",
+        "name": "نودل سبزیجات",
+        "price": 437782,
+        "image": "/images/foods/rest_12_3.jpg",
+        "description": "نودل سبزیجات تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_12_item_4",
+        "name": "سوپ میسو",
+        "price": 232829,
+        "image": "/images/foods/rest_12_4.jpg",
+        "description": "سوپ میسو تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_12",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_12",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_13",
+    "name": "بستنی نعمت",
+    "category": "فست‌فود",
+    "rating": 4.2,
+    "ratingCount": 384,
+    "description": "انواع فست‌فودهای خوش‌طعم و سریع.",
+    "address": "کرمان، خیابان 26",
+    "location": {
+      "lat": 30.285605141344444,
+      "lng": 57.08470770969058
+    },
+    "image": "/images/restaurants/rest_13.jpg",
+    "menu": [
+      {
+        "id": "rest_13_item_1",
+        "name": "هات‌داگ ویژه",
+        "price": 212275,
+        "image": "/images/foods/rest_13_1.jpg",
+        "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_13_item_2",
+        "name": "چیزفرایز",
+        "price": 377116,
+        "image": "/images/foods/rest_13_2.jpg",
+        "description": "چیزفرایز تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_13_item_3",
+        "name": "اسنک مرغ",
+        "price": 474015,
+        "image": "/images/foods/rest_13_3.jpg",
+        "description": "اسنک مرغ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_13_item_4",
+        "name": "سوخاری اسپایسی",
+        "price": 399719,
+        "image": "/images/foods/rest_13_4.jpg",
+        "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_13",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_13",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_14",
+    "name": "قنادی طهران",
+    "category": "قهوه",
+    "rating": 4.5,
+    "ratingCount": 239,
+    "description": "انواع نوشیدنی‌های گرم و سرد تهیه‌شده با بهترین دانه‌های قهوه.",
+    "address": "کرمان، خیابان 22",
+    "location": {
+      "lat": 30.282970465750132,
+      "lng": 57.08389822956066
+    },
+    "image": "/images/restaurants/rest_14.jpg",
+    "menu": [
+      {
+        "id": "rest_14_item_1",
+        "name": "لاته",
+        "price": 287821,
+        "image": "/images/foods/rest_14_1.jpg",
+        "description": "لاته تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_14_item_2",
+        "name": "کاپوچینو",
+        "price": 285309,
+        "image": "/images/foods/rest_14_2.jpg",
+        "description": "کاپوچینو تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_14_item_3",
+        "name": "آمریکانو",
+        "price": 255057,
+        "image": "/images/foods/rest_14_3.jpg",
+        "description": "آمریکانو تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_14_item_4",
+        "name": "موکا",
+        "price": 295765,
+        "image": "/images/foods/rest_14_4.jpg",
+        "description": "موکا تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_14",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_14",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_15",
+    "name": "کافه دانتیسم",
+    "category": "برگر",
+    "rating": 4.6,
+    "ratingCount": 644,
+    "description": "برگرهای دست‌ساز با گوشت تازه و نان مخصوص.",
+    "address": "کرمان، خیابان 51",
+    "location": {
+      "lat": 30.286485339844827,
+      "lng": 57.078456505260164
+    },
+    "image": "/images/restaurants/rest_15.jpg",
+    "menu": [
+      {
+        "id": "rest_15_item_1",
+        "name": "چیزبرگر دوبل",
+        "price": 361796,
+        "image": "/images/foods/rest_15_1.jpg",
+        "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_15_item_2",
+        "name": "برگر مخصوص",
+        "price": 425182,
+        "image": "/images/foods/rest_15_2.jpg",
+        "description": "برگر مخصوص تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_15_item_3",
+        "name": "مک برگر",
+        "price": 362470,
+        "image": "/images/foods/rest_15_3.jpg",
+        "description": "مک برگر تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_15_item_4",
+        "name": "برگر دودی",
+        "price": 285814,
+        "image": "/images/foods/rest_15_4.jpg",
+        "description": "برگر دودی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_15",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_15",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_16",
+    "name": "رستوران چلسی",
+    "category": "فست‌فود",
+    "rating": 4.3,
+    "ratingCount": 125,
+    "description": "انواع فست‌فودهای خوش‌طعم و سریع.",
+    "address": "کرمان، خیابان 16",
+    "location": {
+      "lat": 30.286593268402427,
+      "lng": 57.086726135155416
+    },
+    "image": "/images/restaurants/rest_16.jpg",
+    "menu": [
+      {
+        "id": "rest_16_item_1",
+        "name": "هات‌داگ ویژه",
+        "price": 470579,
+        "image": "/images/foods/rest_16_1.jpg",
+        "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_16_item_2",
+        "name": "چیزفرایز",
+        "price": 509762,
+        "image": "/images/foods/rest_16_2.jpg",
+        "description": "چیزفرایز تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_16_item_3",
+        "name": "اسنک مرغ",
+        "price": 301919,
+        "image": "/images/foods/rest_16_3.jpg",
+        "description": "اسنک مرغ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_16_item_4",
+        "name": "سوخاری اسپایسی",
+        "price": 247284,
+        "image": "/images/foods/rest_16_4.jpg",
+        "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_16",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_16",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_17",
+    "name": "برگرلند",
+    "category": "پیتزا",
+    "rating": 4.0,
+    "ratingCount": 743,
+    "description": "پیتزاهای تنوری خوش‌طعم با مواد اولیه درجه یک.",
+    "address": "کرمان، خیابان 34",
+    "location": {
+      "lat": 30.28458008552914,
+      "lng": 57.07935442993679
+    },
+    "image": "/images/restaurants/rest_17.jpg",
+    "menu": [
+      {
+        "id": "rest_17_item_1",
+        "name": "پیتزا پپرونی",
+        "price": 446906,
+        "image": "/images/foods/rest_17_1.jpg",
+        "description": "پیتزا پپرونی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_17_item_2",
+        "name": "پیتزا مارگاریتا",
+        "price": 235033,
+        "image": "/images/foods/rest_17_2.jpg",
+        "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_17_item_3",
+        "name": "پیتزا چیکن گریل",
+        "price": 379156,
+        "image": "/images/foods/rest_17_3.jpg",
+        "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_17_item_4",
+        "name": "پیتزا چهار فصل",
+        "price": 456006,
+        "image": "/images/foods/rest_17_4.jpg",
+        "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_17",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_17",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_18",
+    "name": "فست‌فود نارنج",
+    "category": "ساندویچ",
+    "rating": 3.9,
+    "ratingCount": 330,
+    "description": "ساندویچ‌های تازه و متنوع مناسب همه سلیقه‌ها.",
+    "address": "کرمان، خیابان 11",
+    "location": {
+      "lat": 30.28265664806109,
+      "lng": 57.08579825888339
+    },
+    "image": "/images/restaurants/rest_18.jpg",
+    "menu": [
+      {
+        "id": "rest_18_item_1",
+        "name": "ساندویچ ژامبون",
+        "price": 528538,
+        "image": "/images/foods/rest_18_1.jpg",
+        "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_18_item_2",
+        "name": "ساندویچ مرغ گریل",
+        "price": 518246,
+        "image": "/images/foods/rest_18_2.jpg",
+        "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_18_item_3",
+        "name": "ساندویچ رست‌بیف",
+        "price": 449404,
+        "image": "/images/foods/rest_18_3.jpg",
+        "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_18_item_4",
+        "name": "ساندویچ هات داگ",
+        "price": 498886,
+        "image": "/images/foods/rest_18_4.jpg",
+        "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_18",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_18",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_19",
+    "name": "کافه سینا",
+    "category": "پیتزا",
+    "rating": 4.2,
+    "ratingCount": 697,
+    "description": "پیتزاهای تنوری خوش‌طعم با مواد اولیه درجه یک.",
+    "address": "کرمان، خیابان 11",
+    "location": {
+      "lat": 30.280164460464025,
+      "lng": 57.08497863392896
+    },
+    "image": "/images/restaurants/rest_19.jpg",
+    "menu": [
+      {
+        "id": "rest_19_item_1",
+        "name": "پیتزا پپرونی",
+        "price": 254830,
+        "image": "/images/foods/rest_19_1.jpg",
+        "description": "پیتزا پپرونی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_19_item_2",
+        "name": "پیتزا مارگاریتا",
+        "price": 343857,
+        "image": "/images/foods/rest_19_2.jpg",
+        "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_19_item_3",
+        "name": "پیتزا چیکن گریل",
+        "price": 273970,
+        "image": "/images/foods/rest_19_3.jpg",
+        "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_19_item_4",
+        "name": "پیتزا چهار فصل",
+        "price": 372168,
+        "image": "/images/foods/rest_19_4.jpg",
+        "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_19",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_19",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_20",
+    "name": "سوشی خانه پارس",
+    "category": "ساندویچ",
+    "rating": 3.9,
+    "ratingCount": 493,
+    "description": "ساندویچ‌های تازه و متنوع مناسب همه سلیقه‌ها.",
+    "address": "کرمان، خیابان 45",
+    "location": {
+      "lat": 30.28289767984254,
+      "lng": 57.083989266438564
+    },
+    "image": "/images/restaurants/rest_20.jpg",
+    "menu": [
+      {
+        "id": "rest_20_item_1",
+        "name": "ساندویچ ژامبون",
+        "price": 273418,
+        "image": "/images/foods/rest_20_1.jpg",
+        "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_20_item_2",
+        "name": "ساندویچ مرغ گریل",
+        "price": 410721,
+        "image": "/images/foods/rest_20_2.jpg",
+        "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_20_item_3",
+        "name": "ساندویچ رست‌بیف",
+        "price": 472032,
+        "image": "/images/foods/rest_20_3.jpg",
+        "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_20_item_4",
+        "name": "ساندویچ هات داگ",
+        "price": 347490,
+        "image": "/images/foods/rest_20_4.jpg",
+        "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_20",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_20",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_21",
+    "name": "رستوران آفتاب",
+    "category": "پیتزا",
+    "rating": 4.1,
+    "ratingCount": 99,
+    "description": "پیتزاهای تنوری خوش‌طعم با مواد اولیه درجه یک.",
+    "address": "کرمان، خیابان 16",
+    "location": {
+      "lat": 30.282017940531983,
+      "lng": 57.08561018952064
+    },
+    "image": "/images/restaurants/rest_21.jpg",
+    "menu": [
+      {
+        "id": "rest_21_item_1",
+        "name": "پیتزا پپرونی",
+        "price": 274176,
+        "image": "/images/foods/rest_21_1.jpg",
+        "description": "پیتزا پپرونی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_21_item_2",
+        "name": "پیتزا مارگاریتا",
+        "price": 501804,
+        "image": "/images/foods/rest_21_2.jpg",
+        "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_21_item_3",
+        "name": "پیتزا چیکن گریل",
+        "price": 287659,
+        "image": "/images/foods/rest_21_3.jpg",
+        "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_21_item_4",
+        "name": "پیتزا چهار فصل",
+        "price": 534826,
+        "image": "/images/foods/rest_21_4.jpg",
+        "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_21",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_21",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_22",
+    "name": "فست‌فود نوید",
+    "category": "برگر",
+    "rating": 3.9,
+    "ratingCount": 489,
+    "description": "برگرهای دست‌ساز با گوشت تازه و نان مخصوص.",
+    "address": "کرمان، خیابان 27",
+    "location": {
+      "lat": 30.27943202742585,
+      "lng": 57.08141033095967
+    },
+    "image": "/images/restaurants/rest_22.jpg",
+    "menu": [
+      {
+        "id": "rest_22_item_1",
+        "name": "چیزبرگر دوبل",
+        "price": 348293,
+        "image": "/images/foods/rest_22_1.jpg",
+        "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_22_item_2",
+        "name": "برگر مخصوص",
+        "price": 338101,
+        "image": "/images/foods/rest_22_2.jpg",
+        "description": "برگر مخصوص تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_22_item_3",
+        "name": "مک برگر",
+        "price": 306745,
+        "image": "/images/foods/rest_22_3.jpg",
+        "description": "مک برگر تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_22_item_4",
+        "name": "برگر دودی",
+        "price": 367410,
+        "image": "/images/foods/rest_22_4.jpg",
+        "description": "برگر دودی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_22",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_22",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 3,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_23",
+    "name": "کافه هوکا",
+    "category": "آسیایی",
+    "rating": 4.6,
+    "ratingCount": 520,
+    "description": "غذاهای سبک و خوش‌طعم آسیایی با طعم‌های خاص.",
+    "address": "کرمان، خیابان 11",
+    "location": {
+      "lat": 30.27912969635413,
+      "lng": 57.07831850021631
+    },
+    "image": "/images/restaurants/rest_23.jpg",
+    "menu": [
+      {
+        "id": "rest_23_item_1",
+        "name": "رمن ژاپنی",
+        "price": 518470,
+        "image": "/images/foods/rest_23_1.jpg",
+        "description": "رمن ژاپنی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_23_item_2",
+        "name": "چیکن تریاکی",
+        "price": 467598,
+        "image": "/images/foods/rest_23_2.jpg",
+        "description": "چیکن تریاکی تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_23_item_3",
+        "name": "نودل سبزیجات",
+        "price": 496024,
+        "image": "/images/foods/rest_23_3.jpg",
+        "description": "نودل سبزیجات تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_23_item_4",
+        "name": "سوپ میسو",
+        "price": 419030,
+        "image": "/images/foods/rest_23_4.jpg",
+        "description": "سوپ میسو تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_23",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 4,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_23",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_24",
+    "name": "رستوران بهار",
+    "category": "برگر",
+    "rating": 4.2,
+    "ratingCount": 393,
+    "description": "برگرهای دست‌ساز با گوشت تازه و نان مخصوص.",
+    "address": "کرمان، خیابان 56",
+    "location": {
+      "lat": 30.286321123199055,
+      "lng": 57.082307533754424
+    },
+    "image": "/images/restaurants/rest_24.jpg",
+    "menu": [
+      {
+        "id": "rest_24_item_1",
+        "name": "چیزبرگر دوبل",
+        "price": 189225,
+        "image": "/images/foods/rest_24_1.jpg",
+        "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_24_item_2",
+        "name": "برگر مخصوص",
+        "price": 369353,
+        "image": "/images/foods/rest_24_2.jpg",
+        "description": "برگر مخصوص تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_24_item_3",
+        "name": "مک برگر",
+        "price": 301120,
+        "image": "/images/foods/rest_24_3.jpg",
+        "description": "مک برگر تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_24_item_4",
+        "name": "برگر دودی",
+        "price": 502519,
+        "image": "/images/foods/rest_24_4.jpg",
+        "description": "برگر دودی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_24",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_24",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 5,
+        "time": "2025-02-10"
+      }
+    ]
+  },
+  {
+    "id": "rest_25",
+    "name": "ساندویچ تهران",
+    "category": "ایرانی",
+    "rating": 4.1,
+    "ratingCount": 134,
+    "description": "غذاهای اصیل ایرانی با کیفیت بالا و مواد اولیه تازه.",
+    "address": "کرمان، خیابان 21",
+    "location": {
+      "lat": 30.28776613193592,
+      "lng": 57.085988018164706
+    },
+    "image": "/images/restaurants/rest_25.jpg",
+    "menu": [
+      {
+        "id": "rest_25_item_1",
+        "name": "چلوکباب برگ",
+        "price": 542024,
+        "image": "/images/foods/rest_25_1.jpg",
+        "description": "چلوکباب برگ تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_25_item_2",
+        "name": "چلوکباب کوبیده",
+        "price": 468167,
+        "image": "/images/foods/rest_25_2.jpg",
+        "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_25_item_3",
+        "name": "جوجه کباب",
+        "price": 317746,
+        "image": "/images/foods/rest_25_3.jpg",
+        "description": "جوجه کباب تازه و با کیفیت عالی"
+      },
+      {
+        "id": "rest_25_item_4",
+        "name": "بریانی",
+        "price": 511158,
+        "image": "/images/foods/rest_25_4.jpg",
+        "description": "بریانی تازه و با کیفیت عالی"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1_rest_25",
+        "user": "کاربر ناشناس",
+        "text": "غذا واقعا عالی و خوش‌طعم بود.",
+        "rating": 5,
+        "time": "2025-02-01"
+      },
+      {
+        "id": "c2_rest_25",
+        "user": "مهمان",
+        "text": "کیفیت خوب بود اما زمان تحویل کمی طول کشید.",
+        "rating": 4,
+        "time": "2025-02-10"
       }
     ]
   }
