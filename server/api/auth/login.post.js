@@ -24,7 +24,7 @@ export default defineEventHandler(async (event) => {
       success: true,
       user: {
         id: 1,
-        name: "Demo User",
+        username: "Demo User",
         email
       }
     }
