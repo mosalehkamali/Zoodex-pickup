@@ -7,7 +7,7 @@
 <script setup>
 const props = defineProps({
   label: { default: "" },
-  customClass: { default: "bg-emerald-500 text-white text-xs" },
+  customClass: { default: "bg-blue-700 text-white text-xs" },
 });
 
 const wrapperClasses = computed(() => {

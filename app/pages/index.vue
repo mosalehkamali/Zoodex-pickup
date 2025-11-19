@@ -12,4 +12,14 @@
 <script setup>
 import RestaurantList from '~/components/pickup/RestaurantList.vue';
 import CategorySlider from '~/components/pickup/CategorySlider.vue';
+import { useRestaurants } from "~/stores/useRestaurants";
+import { useUiStore } from "~/stores/useUiStore";
+
+const store = useRestaurants();
+const ui = useUiStore();
+
+onMounted(async () => {
+  await store.fetchRestaurants();
+  ui.hideLoader();
+});
 </script>
