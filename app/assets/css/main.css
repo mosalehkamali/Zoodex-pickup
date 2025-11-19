@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: "koodak";
+    src: url("/fonts/B-NAZANIN.TTF") format("truetype");
+   
+  }
+@font-face {
+    font-family: "koodak-bold";
+    src: url("/fonts/Digi Koodak Bold.ttf") format("truetype");
+  }
+
+html,body{
+    direction: rtl;
+    font-family: koodak
+}
