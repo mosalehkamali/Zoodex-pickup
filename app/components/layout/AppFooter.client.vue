@@ -15,20 +15,20 @@
   
           <div class="flex flex-col gap-2 text-sm text-gray-700">
             <NuxtLink to="/" class="hover:text-gray-900 transition">صفحه اصلی</NuxtLink>
-            <NuxtLink to="/restaurants" class="hover:text-gray-900 transition">رستوران‌ها</NuxtLink>
-            <NuxtLink to="/about" class="hover:text-gray-900 transition">درباره ما</NuxtLink>
-            <NuxtLink to="/contact" class="hover:text-gray-900 transition">تماس با ما</NuxtLink>
+            <NuxtLink to="/" class="hover:text-gray-900 transition">رستوران‌ها</NuxtLink>
+            <NuxtLink to="/" class="hover:text-gray-900 transition">درباره ما</NuxtLink>
+            <NuxtLink to="/" class="hover:text-gray-900 transition">تماس با ما</NuxtLink>
           </div>
   
           <div class="flex items-center gap-4">
             <a href="#" class="text-gray-600 hover:text-gray-900 transition">
-              <Icon name="uil:instagram" size="24" />
+              <Instagram  size="24" />
             </a>
             <a href="#" class="text-gray-600 hover:text-gray-900 transition">
-              <Icon name="uil:telegram" size="24" />
+              <Instagram  size="24" />
             </a>
             <a href="#" class="text-gray-600 hover:text-gray-900 transition">
-              <Icon name="uil:whatsapp" size="24" />
+              <Instagram  size="24" />
             </a>
           </div>
         </div>
@@ -38,5 +38,6 @@
   </template>
   
   <script setup>
+  import { Instagram } from 'lucide-vue-next';
   </script>
   
