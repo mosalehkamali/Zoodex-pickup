@@ -7,12 +7,12 @@
 <script setup>
 const props = defineProps({
   label: { default: "" },
-  customClass: { default: "" },
+  customClass: { default: "bg-emerald-500 text-white text-xs" },
 });
 
 const wrapperClasses = computed(() => {
   return [
-    "inline-flex items-center bg-emerald-500 text-white rounded-full px-2 py-0.5 text-xs font-medium",
+    "inline-flex items-center rounded-full px-2 py-0.5 justify-center align-center",
     props.customClass,
   ];
 });

@@ -11,7 +11,7 @@
       "lat": 30.287975236481486,
       "lng": 57.0845110217968
     },
-    "image": "/images/restaurants/rest_1.jepg",
+    "image": "/images/restaurants/rest_1.jpeg",
     "menu": [
       {
         "id": "rest_1_item_1",
@@ -71,7 +71,7 @@
       "lat": 30.28653923472846,
       "lng": 57.08682363412525
     },
-    "image": "/images/restaurants/rest_2.jepg",
+    "image": "/images/restaurants/rest_2.jpeg",
     "menu": [
       {
         "id": "rest_2_item_1",
@@ -131,7 +131,7 @@
       "lat": 30.28049820131494,
       "lng": 57.0796789606579
     },
-    "image": "/images/restaurants/rest_3.jepg",
+    "image": "/images/restaurants/rest_3.jpeg",
     "menu": [
       {
         "id": "rest_3_item_1",
@@ -191,7 +191,7 @@
       "lat": 30.301137159746894,
       "lng": 57.07866467337709
     },
-    "image": "/images/restaurants/rest_4.jepg",
+    "image": "/images/restaurants/rest_4.jpeg",
     "menu": [
       {
         "id": "rest_4_item_1",
@@ -251,7 +251,7 @@
       "lat": 30.286563067548716,
       "lng": 57.055897112104895
     },
-    "image": "/images/restaurants/rest_5.jepg",
+    "image": "/images/restaurants/rest_5.jpeg",
     "menu": [
       {
         "id": "rest_5_item_1",
@@ -311,7 +311,7 @@
       "lat": 30.291244747690774,
       "lng": 57.02920661046263
     },
-    "image": "/images/restaurants/rest_6.jepg",
+    "image": "/images/restaurants/rest_6.jpeg",
     "menu": [
       {
         "id": "rest_6_item_1",
@@ -371,7 +371,7 @@
       "lat": 30.296838677260068,
       "lng": 57.04254400712684
     },
-    "image": "/images/restaurants/rest_7.jepg",
+    "image": "/images/restaurants/rest_7.jpeg",
     "menu": [
       {
         "id": "rest_7_item_1",
@@ -431,7 +431,7 @@
       "lat": 30.289467430725777,
       "lng": 57.06132949419336
     },
-    "image": "/images/restaurants/rest_8.jepg",
+    "image": "/images/restaurants/rest_8.jpeg",
     "menu": [
       {
         "id": "rest_8_item_1",
@@ -491,7 +491,7 @@
       "lat": 30.265377446205207,
       "lng": 57.06731014883121
     },
-    "image": "/images/restaurants/rest_9.jepg",
+    "image": "/images/restaurants/rest_9.jpeg",
     "menu": [
       {
         "id": "rest_9_item_1",
@@ -551,7 +551,7 @@
       "lat": 30.28306449518204,
       "lng": 57.07932138506773
     },
-    "image": "/images/restaurants/rest_10.jepg",
+    "image": "/images/restaurants/rest_10.jpeg",
     "menu": [
       {
         "id": "rest_10_item_1",
@@ -611,7 +611,7 @@
       "lat": 30.2850866733347,
       "lng": 57.08108810927293
     },
-    "image": "/images/restaurants/rest_1.jepg",
+    "image": "/images/restaurants/rest_1.jpeg",
     "menu": [
       {
         "id": "rest_11_item_1",
@@ -671,7 +671,7 @@
       "lat": 30.283521355780564,
       "lng": 57.08783154376963
     },
-    "image": "/images/restaurants/rest_2.jepg",
+    "image": "/images/restaurants/rest_2.jpeg",
     "menu": [
       {
         "id": "rest_12_item_1",
@@ -731,7 +731,7 @@
       "lat": 30.285605141344444,
       "lng": 57.08470770969058
     },
-    "image": "/images/restaurants/rest_3.jepg",
+    "image": "/images/restaurants/rest_3.jpeg",
     "menu": [
       {
         "id": "rest_13_item_1",
@@ -791,7 +791,7 @@
       "lat": 30.282970465750132,
       "lng": 57.08389822956066
     },
-    "image": "/images/restaurants/rest_4.jepg",
+    "image": "/images/restaurants/rest_4.jpeg",
     "menu": [
       {
         "id": "rest_14_item_1",
@@ -851,7 +851,7 @@
       "lat": 30.286485339844827,
       "lng": 57.078456505260164
     },
-    "image": "/images/restaurants/rest_5.jepg",
+    "image": "/images/restaurants/rest_5.jpeg",
     "menu": [
       {
         "id": "rest_15_item_1",
@@ -911,7 +911,7 @@
       "lat": 30.286593268402427,
       "lng": 57.086726135155416
     },
-    "image": "/images/restaurants/rest_6.jepg",
+    "image": "/images/restaurants/rest_6.jpeg",
     "menu": [
       {
         "id": "rest_16_item_1",
@@ -971,7 +971,7 @@
       "lat": 30.28458008552914,
       "lng": 57.07935442993679
     },
-    "image": "/images/restaurants/rest_7.jepg",
+    "image": "/images/restaurants/rest_7.jpeg",
     "menu": [
       {
         "id": "rest_17_item_1",
@@ -1031,7 +1031,7 @@
       "lat": 30.28265664806109,
       "lng": 57.08579825888339
     },
-    "image": "/images/restaurants/rest_8.jepg",
+    "image": "/images/restaurants/rest_8.jpeg",
     "menu": [
       {
         "id": "rest_18_item_1",
@@ -1091,7 +1091,7 @@
       "lat": 30.280164460464025,
       "lng": 57.08497863392896
     },
-    "image": "/images/restaurants/rest_9.jepg",
+    "image": "/images/restaurants/rest_9.jpeg",
     "menu": [
       {
         "id": "rest_19_item_1",
@@ -1151,7 +1151,7 @@
       "lat": 30.28289767984254,
       "lng": 57.083989266438564
     },
-    "image": "/images/restaurants/rest_10.jepg",
+    "image": "/images/restaurants/rest_10.jpeg",
     "menu": [
       {
         "id": "rest_20_item_1",
@@ -1211,7 +1211,7 @@
       "lat": 30.282017940531983,
       "lng": 57.08561018952064
     },
-    "image": "/images/restaurants/rest_1.jepg",
+    "image": "/images/restaurants/rest_1.jpeg",
     "menu": [
       {
         "id": "rest_21_item_1",
@@ -1271,7 +1271,7 @@
       "lat": 30.27943202742585,
       "lng": 57.08141033095967
     },
-    "image": "/images/restaurants/rest_2.jepg",
+    "image": "/images/restaurants/rest_2.jpeg",
     "menu": [
       {
         "id": "rest_22_item_1",
@@ -1331,7 +1331,7 @@
       "lat": 30.27912969635413,
       "lng": 57.07831850021631
     },
-    "image": "/images/restaurants/rest_3.jepg",
+    "image": "/images/restaurants/rest_3.jpeg",
     "menu": [
       {
         "id": "rest_23_item_1",
@@ -1391,7 +1391,7 @@
       "lat": 30.286321123199055,
       "lng": 57.082307533754424
     },
-    "image": "/images/restaurants/rest_4.jepg",
+    "image": "/images/restaurants/rest_4.jpeg",
     "menu": [
       {
         "id": "rest_24_item_1",
@@ -1451,7 +1451,7 @@
       "lat": 30.28776613193592,
       "lng": 57.085988018164706
     },
-    "image": "/images/restaurants/rest_5.jepg",
+    "image": "/images/restaurants/rest_5.jpeg",
     "menu": [
       {
         "id": "rest_25_item_1",
