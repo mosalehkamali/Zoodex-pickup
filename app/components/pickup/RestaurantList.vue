@@ -1,6 +1,5 @@
 <template>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  
       <UiBaseSkeletonBox
         v-if="store.loading"
         v-for="n in 6"
