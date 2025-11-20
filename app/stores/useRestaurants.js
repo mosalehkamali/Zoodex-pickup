@@ -54,13 +54,8 @@ export const useRestaurants = defineStore("restaurants", {
       }
     },
 
-    getRestaurantById(id) {
-      const restaurant = this.restaurants.find((item) => item.id === id);
-      if (restaurant) {
-        return restaurant;
-      } else {
-        return null;
-      }
-    },
+    getRestaurantById: (state) => {
+      return (id) => state.restaurants.find((item) => item.id === id) || null
+    }
   },
 });

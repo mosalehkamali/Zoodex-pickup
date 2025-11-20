@@ -1,5 +1,6 @@
 <template>
   <div :class="wrapperClasses">
+    <slot/>
     {{ label }}
   </div>
 </template>
