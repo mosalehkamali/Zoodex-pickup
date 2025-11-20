@@ -13,3 +13,12 @@
 html,body{
     direction: rtl;
 }
+
+input {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}

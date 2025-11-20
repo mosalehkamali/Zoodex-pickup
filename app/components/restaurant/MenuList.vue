@@ -1,5 +1,6 @@
 <template>
-    <div class="grid mt-10 p-3 md:grid-cols-2 gap-5">
+    <p class="text-2xl pr-5 mt-10 font-bold">منو مجموعه</p>
+    <div class="grid mt-5 p-3 md:grid-cols-2 gap-5">
         <MenuItem
             v-for="item in menu"
             :key="item.id"
