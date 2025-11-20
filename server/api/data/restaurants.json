@@ -16,14 +16,14 @@
       {
         "id": "rest_1_item_1",
         "name": "پیتزا پپرونی",
-        "price": 459599,
+        "price": 459000,
         "image": "/images/foods/food_1.webp",
         "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_1_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 234174,
+        "price": 234000,
         "image": "/images/foods/food_2.webp",
         "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
@@ -37,7 +37,7 @@
       {
         "id": "rest_1_item_4",
         "name": "پیتزا چهار فصل",
-        "price": 205828,
+        "price": 205000,
         "image": "/images/foods/food_4.webp",
         "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
       }
@@ -76,28 +76,28 @@
       {
         "id": "rest_2_item_1",
         "name": "چلوکباب برگ",
-        "price": 310500,
+        "price": 310000,
         "image": "/images/foods/food_1.webp",
         "description": "چلوکباب برگ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_2_item_2",
         "name": "چلوکباب کوبیده",
-        "price": 508684,
+        "price": 508000,
         "image": "/images/foods/food_2.webp",
         "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
       },
       {
         "id": "rest_2_item_3",
         "name": "جوجه کباب",
-        "price": 211093,
+        "price": 211000,
         "image": "/images/foods/food_3.webp",
         "description": "جوجه کباب تازه و با کیفیت عالی"
       },
       {
         "id": "rest_2_item_4",
         "name": "بریانی",
-        "price": 281133,
+        "price": 281000,
         "image": "/images/foods/food_4.webp",
         "description": "بریانی تازه و با کیفیت عالی"
       }
@@ -136,28 +136,28 @@
       {
         "id": "rest_3_item_1",
         "name": "چلوکباب برگ",
-        "price": 456133,
+        "price": 456000,
         "image": "/images/foods/food_1.webp",
         "description": "چلوکباب برگ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_3_item_2",
         "name": "چلوکباب کوبیده",
-        "price": 534057,
+        "price": 534000,
         "image": "/images/foods/food_2.webp",
         "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
       },
       {
         "id": "rest_3_item_3",
         "name": "جوجه کباب",
-        "price": 336960,
+        "price": 336000,
         "image": "/images/foods/food_3.webp",
         "description": "جوجه کباب تازه و با کیفیت عالی"
       },
       {
         "id": "rest_3_item_4",
         "name": "بریانی",
-        "price": 498720,
+        "price": 498000,
         "image": "/images/foods/food_4.webp",
         "description": "بریانی تازه و با کیفیت عالی"
       }
@@ -196,28 +196,28 @@
       {
         "id": "rest_4_item_1",
         "name": "هات‌داگ ویژه",
-        "price": 211359,
+        "price": 211000,
         "image": "/images/foods/food_1.webp",
         "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
       },
       {
         "id": "rest_4_item_2",
         "name": "چیزفرایز",
-        "price": 194105,
+        "price": 194000,
         "image": "/images/foods/food_2.webp",
         "description": "چیزفرایز تازه و با کیفیت عالی"
       },
       {
         "id": "rest_4_item_3",
         "name": "اسنک مرغ",
-        "price": 238417,
+        "price": 238000,
         "image": "/images/foods/food_3.webp",
         "description": "اسنک مرغ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_4_item_4",
         "name": "سوخاری اسپایسی",
-        "price": 371865,
+        "price": 371000,
         "image": "/images/foods/food_4.webp",
         "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
       }
@@ -256,28 +256,28 @@
       {
         "id": "rest_5_item_1",
         "name": "پیتزا پپرونی",
-        "price": 526657,
+        "price": 526000,
         "image": "/images/foods/food_1.webp",
         "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_5_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 521368,
+        "price": 521000,
         "image": "/images/foods/food_2.webp",
         "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
       {
         "id": "rest_5_item_3",
         "name": "پیتزا چیکن گریل",
-        "price": 398321,
+        "price": 398000,
         "image": "/images/foods/food_3.webp",
         "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_5_item_4",
         "name": "پیتزا چهار فصل",
-        "price": 527406,
+        "price": 527000,
         "image": "/images/foods/food_4.webp",
         "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
       }
@@ -316,28 +316,28 @@
       {
         "id": "rest_6_item_1",
         "name": "چیزبرگر دوبل",
-        "price": 493302,
+        "price": 493000,
         "image": "/images/foods/food_1.webp",
         "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_6_item_2",
         "name": "برگر مخصوص",
-        "price": 419949,
+        "price": 419000,
         "image": "/images/foods/food_2.webp",
         "description": "برگر مخصوص تازه و با کیفیت عالی"
       },
       {
         "id": "rest_6_item_3",
         "name": "مک برگر",
-        "price": 498643,
+        "price": 498000,
         "image": "/images/foods/food_3.webp",
         "description": "مک برگر تازه و با کیفیت عالی"
       },
       {
         "id": "rest_6_item_4",
         "name": "برگر دودی",
-        "price": 480038,
+        "price": 480000,
         "image": "/images/foods/food_4.webp",
         "description": "برگر دودی تازه و با کیفیت عالی"
       }
@@ -376,28 +376,28 @@
       {
         "id": "rest_7_item_1",
         "name": "رمن ژاپنی",
-        "price": 549476,
+        "price": 549000,
         "image": "/images/foods/food_1.webp",
         "description": "رمن ژاپنی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_7_item_2",
         "name": "چیکن تریاکی",
-        "price": 294593,
+        "price": 294000,
         "image": "/images/foods/food_2.webp",
         "description": "چیکن تریاکی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_7_item_3",
         "name": "نودل سبزیجات",
-        "price": 208421,
+        "price": 208000,
         "image": "/images/foods/food_3.webp",
         "description": "نودل سبزیجات تازه و با کیفیت عالی"
       },
       {
         "id": "rest_7_item_4",
         "name": "سوپ میسو",
-        "price": 414625,
+        "price": 414000,
         "image": "/images/foods/food_4.webp",
         "description": "سوپ میسو تازه و با کیفیت عالی"
       }
@@ -436,28 +436,28 @@
       {
         "id": "rest_8_item_1",
         "name": "لاته",
-        "price": 399234,
+        "price": 399000,
         "image": "/images/foods/food_1.webp",
         "description": "لاته تازه و با کیفیت عالی"
       },
       {
         "id": "rest_8_item_2",
         "name": "کاپوچینو",
-        "price": 224875,
+        "price": 224000,
         "image": "/images/foods/food_2.webp",
         "description": "کاپوچینو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_8_item_3",
         "name": "آمریکانو",
-        "price": 418965,
+        "price": 418000,
         "image": "/images/foods/food_3.webp",
         "description": "آمریکانو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_8_item_4",
         "name": "موکا",
-        "price": 334843,
+        "price": 334000,
         "image": "/images/foods/food_4.webp",
         "description": "موکا تازه و با کیفیت عالی"
       }
@@ -496,28 +496,28 @@
       {
         "id": "rest_9_item_1",
         "name": "کیک شکلاتی",
-        "price": 484514,
+        "price": 484000,
         "image": "/images/foods/food_1.webp",
         "description": "کیک شکلاتی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_9_item_2",
         "name": "ژله میوه‌ای",
-        "price": 482670,
+        "price": 482000,
         "image": "/images/foods/food_2.webp",
         "description": "ژله میوه‌ای تازه و با کیفیت عالی"
       },
       {
         "id": "rest_9_item_3",
         "name": "کرم کارامل",
-        "price": 346261,
+        "price": 346000,
         "image": "/images/foods/food_3.webp",
         "description": "کرم کارامل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_9_item_4",
         "name": "تیرامیسو",
-        "price": 182039,
+        "price": 182000,
         "image": "/images/foods/food_4.webp",
         "description": "تیرامیسو تازه و با کیفیت عالی"
       }
@@ -556,28 +556,28 @@
       {
         "id": "rest_10_item_1",
         "name": "لاته",
-        "price": 495387,
+        "price": 495000,
         "image": "/images/foods/food_1.webp",
         "description": "لاته تازه و با کیفیت عالی"
       },
       {
         "id": "rest_10_item_2",
         "name": "کاپوچینو",
-        "price": 420011,
+        "price": 420000,
         "image": "/images/foods/food_2.webp",
         "description": "کاپوچینو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_10_item_3",
         "name": "آمریکانو",
-        "price": 227543,
+        "price": 227000,
         "image": "/images/foods/food_3.webp",
         "description": "آمریکانو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_10_item_4",
         "name": "موکا",
-        "price": 317566,
+        "price": 317000,
         "image": "/images/foods/food_4.webp",
         "description": "موکا تازه و با کیفیت عالی"
       }
@@ -616,28 +616,28 @@
       {
         "id": "rest_11_item_1",
         "name": "ساندویچ ژامبون",
-        "price": 262730,
+        "price": 262000,
         "image": "/images/foods/food_1.webp",
         "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
       },
       {
         "id": "rest_11_item_2",
         "name": "ساندویچ مرغ گریل",
-        "price": 505451,
+        "price": 505000,
         "image": "/images/foods/food_2.webp",
         "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_11_item_3",
         "name": "ساندویچ رست‌بیف",
-        "price": 454315,
+        "price": 454000,
         "image": "/images/foods/food_3.webp",
         "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
       },
       {
         "id": "rest_11_item_4",
         "name": "ساندویچ هات داگ",
-        "price": 533109,
+        "price": 533000,
         "image": "/images/foods/food_4.webp",
         "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
       }
@@ -676,28 +676,28 @@
       {
         "id": "rest_12_item_1",
         "name": "رمن ژاپنی",
-        "price": 515522,
+        "price": 515000,
         "image": "/images/foods/food_1.webp",
         "description": "رمن ژاپنی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_12_item_2",
         "name": "چیکن تریاکی",
-        "price": 492502,
+        "price": 492000,
         "image": "/images/foods/food_2.webp",
         "description": "چیکن تریاکی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_12_item_3",
         "name": "نودل سبزیجات",
-        "price": 437782,
+        "price": 437000,
         "image": "/images/foods/food_3.webp",
         "description": "نودل سبزیجات تازه و با کیفیت عالی"
       },
       {
         "id": "rest_12_item_4",
         "name": "سوپ میسو",
-        "price": 232829,
+        "price": 232000,
         "image": "/images/foods/food_4.webp",
         "description": "سوپ میسو تازه و با کیفیت عالی"
       }
@@ -736,28 +736,28 @@
       {
         "id": "rest_13_item_1",
         "name": "هات‌داگ ویژه",
-        "price": 212275,
+        "price": 212000,
         "image": "/images/foods/food_1.webp",
         "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
       },
       {
         "id": "rest_13_item_2",
         "name": "چیزفرایز",
-        "price": 377116,
+        "price": 377000,
         "image": "/images/foods/food_2.webp",
         "description": "چیزفرایز تازه و با کیفیت عالی"
       },
       {
         "id": "rest_13_item_3",
         "name": "اسنک مرغ",
-        "price": 474015,
+        "price": 474000,
         "image": "/images/foods/food_3.webp",
         "description": "اسنک مرغ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_13_item_4",
         "name": "سوخاری اسپایسی",
-        "price": 399719,
+        "price": 399000,
         "image": "/images/foods/food_4.webp",
         "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
       }
@@ -796,28 +796,28 @@
       {
         "id": "rest_14_item_1",
         "name": "لاته",
-        "price": 287821,
+        "price": 287000,
         "image": "/images/foods/food_1.webp",
         "description": "لاته تازه و با کیفیت عالی"
       },
       {
         "id": "rest_14_item_2",
         "name": "کاپوچینو",
-        "price": 285309,
+        "price": 285000,
         "image": "/images/foods/food_2.webp",
         "description": "کاپوچینو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_14_item_3",
         "name": "آمریکانو",
-        "price": 255057,
+        "price": 255000,
         "image": "/images/foods/food_3.webp",
         "description": "آمریکانو تازه و با کیفیت عالی"
       },
       {
         "id": "rest_14_item_4",
         "name": "موکا",
-        "price": 295765,
+        "price": 295000,
         "image": "/images/foods/food_4.webp",
         "description": "موکا تازه و با کیفیت عالی"
       }
@@ -856,28 +856,28 @@
       {
         "id": "rest_15_item_1",
         "name": "چیزبرگر دوبل",
-        "price": 361796,
+        "price": 361000,
         "image": "/images/foods/food_1.webp",
         "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_15_item_2",
         "name": "برگر مخصوص",
-        "price": 425182,
+        "price": 425000,
         "image": "/images/foods/food_2.webp",
         "description": "برگر مخصوص تازه و با کیفیت عالی"
       },
       {
         "id": "rest_15_item_3",
         "name": "مک برگر",
-        "price": 362470,
+        "price": 362000,
         "image": "/images/foods/food_3.webp",
         "description": "مک برگر تازه و با کیفیت عالی"
       },
       {
         "id": "rest_15_item_4",
         "name": "برگر دودی",
-        "price": 285814,
+        "price": 285000,
         "image": "/images/foods/food_4.webp",
         "description": "برگر دودی تازه و با کیفیت عالی"
       }
@@ -916,28 +916,28 @@
       {
         "id": "rest_16_item_1",
         "name": "هات‌داگ ویژه",
-        "price": 470579,
+        "price": 470000,
         "image": "/images/foods/food_1.webp",
         "description": "هات‌داگ ویژه تازه و با کیفیت عالی"
       },
       {
         "id": "rest_16_item_2",
         "name": "چیزفرایز",
-        "price": 509762,
+        "price": 509000,
         "image": "/images/foods/food_2.webp",
         "description": "چیزفرایز تازه و با کیفیت عالی"
       },
       {
         "id": "rest_16_item_3",
         "name": "اسنک مرغ",
-        "price": 301919,
+        "price": 301000,
         "image": "/images/foods/food_3.webp",
         "description": "اسنک مرغ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_16_item_4",
         "name": "سوخاری اسپایسی",
-        "price": 247284,
+        "price": 247000,
         "image": "/images/foods/food_4.webp",
         "description": "سوخاری اسپایسی تازه و با کیفیت عالی"
       }
@@ -976,28 +976,28 @@
       {
         "id": "rest_17_item_1",
         "name": "پیتزا پپرونی",
-        "price": 446906,
+        "price": 446000,
         "image": "/images/foods/food_1.webp",
         "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_17_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 235033,
+        "price": 235000,
         "image": "/images/foods/food_2.webp",
         "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
       {
         "id": "rest_17_item_3",
         "name": "پیتزا چیکن گریل",
-        "price": 379156,
+        "price": 379000,
         "image": "/images/foods/food_3.webp",
         "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_17_item_4",
         "name": "پیتزا چهار فصل",
-        "price": 456006,
+        "price": 456000,
         "image": "/images/foods/food_4.webp",
         "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
       }
@@ -1036,28 +1036,28 @@
       {
         "id": "rest_18_item_1",
         "name": "ساندویچ ژامبون",
-        "price": 528538,
+        "price": 528000,
         "image": "/images/foods/food_1.webp",
         "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
       },
       {
         "id": "rest_18_item_2",
         "name": "ساندویچ مرغ گریل",
-        "price": 518246,
+        "price": 518000,
         "image": "/images/foods/food_2.webp",
         "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_18_item_3",
         "name": "ساندویچ رست‌بیف",
-        "price": 449404,
+        "price": 449000,
         "image": "/images/foods/food_3.webp",
         "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
       },
       {
         "id": "rest_18_item_4",
         "name": "ساندویچ هات داگ",
-        "price": 498886,
+        "price": 498000,
         "image": "/images/foods/food_4.webp",
         "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
       }
@@ -1096,28 +1096,28 @@
       {
         "id": "rest_19_item_1",
         "name": "پیتزا پپرونی",
-        "price": 254830,
+        "price": 254000,
         "image": "/images/foods/food_1.webp",
         "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_19_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 343857,
+        "price": 343000,
         "image": "/images/foods/food_2.webp",
         "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
       {
         "id": "rest_19_item_3",
         "name": "پیتزا چیکن گریل",
-        "price": 273970,
+        "price": 273000,
         "image": "/images/foods/food_3.webp",
         "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_19_item_4",
         "name": "پیتزا چهار فصل",
-        "price": 372168,
+        "price": 372000,
         "image": "/images/foods/food_4.webp",
         "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
       }
@@ -1156,28 +1156,28 @@
       {
         "id": "rest_20_item_1",
         "name": "ساندویچ ژامبون",
-        "price": 273418,
+        "price": 273000,
         "image": "/images/foods/food_1.webp",
         "description": "ساندویچ ژامبون تازه و با کیفیت عالی"
       },
       {
         "id": "rest_20_item_2",
         "name": "ساندویچ مرغ گریل",
-        "price": 410721,
+        "price": 410000,
         "image": "/images/foods/food_2.webp",
         "description": "ساندویچ مرغ گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_20_item_3",
         "name": "ساندویچ رست‌بیف",
-        "price": 472032,
+        "price": 472000,
         "image": "/images/foods/food_3.webp",
         "description": "ساندویچ رست‌بیف تازه و با کیفیت عالی"
       },
       {
         "id": "rest_20_item_4",
         "name": "ساندویچ هات داگ",
-        "price": 347490,
+        "price": 347000,
         "image": "/images/foods/food_4.webp",
         "description": "ساندویچ هات داگ تازه و با کیفیت عالی"
       }
@@ -1216,28 +1216,28 @@
       {
         "id": "rest_21_item_1",
         "name": "پیتزا پپرونی",
-        "price": 274176,
+        "price": 274000,
         "image": "/images/foods/food_1.webp",
         "description": "پیتزا پپرونی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_21_item_2",
         "name": "پیتزا مارگاریتا",
-        "price": 501804,
+        "price": 501000,
         "image": "/images/foods/food_2.webp",
         "description": "پیتزا مارگاریتا تازه و با کیفیت عالی"
       },
       {
         "id": "rest_21_item_3",
         "name": "پیتزا چیکن گریل",
-        "price": 287659,
+        "price": 287000,
         "image": "/images/foods/food_3.webp",
         "description": "پیتزا چیکن گریل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_21_item_4",
         "name": "پیتزا چهار فصل",
-        "price": 534826,
+        "price": 534000,
         "image": "/images/foods/food_4.webp",
         "description": "پیتزا چهار فصل تازه و با کیفیت عالی"
       }
@@ -1276,28 +1276,28 @@
       {
         "id": "rest_22_item_1",
         "name": "چیزبرگر دوبل",
-        "price": 348293,
+        "price": 348000,
         "image": "/images/foods/food_1.webp",
         "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_22_item_2",
         "name": "برگر مخصوص",
-        "price": 338101,
+        "price": 338000,
         "image": "/images/foods/food_2.webp",
         "description": "برگر مخصوص تازه و با کیفیت عالی"
       },
       {
         "id": "rest_22_item_3",
         "name": "مک برگر",
-        "price": 306745,
+        "price": 306000,
         "image": "/images/foods/food_3.webp",
         "description": "مک برگر تازه و با کیفیت عالی"
       },
       {
         "id": "rest_22_item_4",
         "name": "برگر دودی",
-        "price": 367410,
+        "price": 367000,
         "image": "/images/foods/food_4.webp",
         "description": "برگر دودی تازه و با کیفیت عالی"
       }
@@ -1336,28 +1336,28 @@
       {
         "id": "rest_23_item_1",
         "name": "رمن ژاپنی",
-        "price": 518470,
+        "price": 518000,
         "image": "/images/foods/food_1.webp",
         "description": "رمن ژاپنی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_23_item_2",
         "name": "چیکن تریاکی",
-        "price": 467598,
+        "price": 467000,
         "image": "/images/foods/food_2.webp",
         "description": "چیکن تریاکی تازه و با کیفیت عالی"
       },
       {
         "id": "rest_23_item_3",
         "name": "نودل سبزیجات",
-        "price": 496024,
+        "price": 496000,
         "image": "/images/foods/food_3.webp",
         "description": "نودل سبزیجات تازه و با کیفیت عالی"
       },
       {
         "id": "rest_23_item_4",
         "name": "سوپ میسو",
-        "price": 419030,
+        "price": 419000,
         "image": "/images/foods/food_4.webp",
         "description": "سوپ میسو تازه و با کیفیت عالی"
       }
@@ -1396,28 +1396,28 @@
       {
         "id": "rest_24_item_1",
         "name": "چیزبرگر دوبل",
-        "price": 189225,
+        "price": 189000,
         "image": "/images/foods/food_1.webp",
         "description": "چیزبرگر دوبل تازه و با کیفیت عالی"
       },
       {
         "id": "rest_24_item_2",
         "name": "برگر مخصوص",
-        "price": 369353,
+        "price": 369000,
         "image": "/images/foods/food_2.webp",
         "description": "برگر مخصوص تازه و با کیفیت عالی"
       },
       {
         "id": "rest_24_item_3",
         "name": "مک برگر",
-        "price": 301120,
+        "price": 301000,
         "image": "/images/foods/food_3.webp",
         "description": "مک برگر تازه و با کیفیت عالی"
       },
       {
         "id": "rest_24_item_4",
         "name": "برگر دودی",
-        "price": 502519,
+        "price": 502000,
         "image": "/images/foods/food_4.webp",
         "description": "برگر دودی تازه و با کیفیت عالی"
       }
@@ -1456,28 +1456,28 @@
       {
         "id": "rest_25_item_1",
         "name": "چلوکباب برگ",
-        "price": 542024,
+        "price": 542000,
         "image": "/images/foods/food_1.webp",
         "description": "چلوکباب برگ تازه و با کیفیت عالی"
       },
       {
         "id": "rest_25_item_2",
         "name": "چلوکباب کوبیده",
-        "price": 468167,
+        "price": 468000,
         "image": "/images/foods/food_2.webp",
         "description": "چلوکباب کوبیده تازه و با کیفیت عالی"
       },
       {
         "id": "rest_25_item_3",
         "name": "جوجه کباب",
-        "price": 317746,
+        "price": 317000,
         "image": "/images/foods/food_3.webp",
         "description": "جوجه کباب تازه و با کیفیت عالی"
       },
       {
         "id": "rest_25_item_4",
         "name": "بریانی",
-        "price": 511158,
+        "price": 511000,
         "image": "/images/foods/food_4.webp",
         "description": "بریانی تازه و با کیفیت عالی"
       }

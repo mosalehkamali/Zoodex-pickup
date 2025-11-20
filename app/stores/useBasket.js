@@ -45,7 +45,10 @@ export const useBasket = defineStore("basket", {
       this.items = []
       this.saveToLocalStorage()
     },
-    
+    setItems(){
+      const basket= JSON.parse(localStorage.getItem("basket") || "[]")
+      this.items = basket
+    },
     saveToLocalStorage(){
       localStorage.setItem("basket", JSON.stringify(this.items));
     }

@@ -1,6 +1,7 @@
 <template>
   <button :class="btnClass">
     {{ label }}
+    <slot/>
   </button>
 </template>
 <script setup>

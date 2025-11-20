@@ -1,5 +1,5 @@
 <template>
-  <div class="px-5 md:px-18">
+  <div>
     <div class="relative w-full h-50 md:h-80">
       <Heart
         class="text-white absolute md:top-5 top-2 md:right-15 right-2 z-10"
@@ -28,7 +28,7 @@
         <UiBaseBadge :label="restaurant.rating" :customClass="bageClass">
           <Star color="yellow" fill="yellow" size="24" />
         </UiBaseBadge>
-        <span class="text-gray-500"> از {{ restaurant.ratingCount }} نظر </span>
+        <span class="text-gray-500"> از {{ (restaurant.ratingCount).toLocaleString("fa-IR") }} نظر </span>
       </div>
     </div>
   </div>
@@ -36,10 +36,9 @@
 <script setup>
 import { Heart, MapPinned } from "lucide-vue-next";
 import { Star } from "lucide-vue-next";
-const props = defineProps({ id: { type: String } });
-const { data } = await useFetch(`/api/restaurants/${props.id}`);
 
-const restaurant = data.value;
+const props = defineProps({ restaurant: {} });
+const restaurant = props.restaurant
 
 const bageClass =
   "h-27 w-27 bg-gray-200 text-3xl font-bold border-dashed border-2 border-gray-400";
