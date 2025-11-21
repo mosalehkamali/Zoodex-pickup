@@ -1,6 +1,6 @@
 <template>
   <p class="text-2xl pr-5 mt-10 font-bold">نظرات</p>
-  <div class="w-full flex justify-center gap-3">
+  <div class="w-full flex justify-center gap-3 mt-5">
     <input
     @keydown.enter="addComment"
       type="text"
@@ -12,7 +12,7 @@
         <SendHorizontal class="rotate-180 cursor-pointer"/>
     </UiBaseBadge>
   </div>
-  <div class="grid mt-5 md:px-[10rem] md:grid-cols-2 gap-x-10">
+  <div class="grid mt-5 md:px-[10rem] md:grid-cols-2 gap-y-5 gap-x-10">
     <div
       class="border-1 border-gray-200 p-3 rounded-2xl"
       v-for="(comment,index) in comments"

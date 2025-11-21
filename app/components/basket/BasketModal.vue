@@ -1,9 +1,11 @@
 <template>
   <div
-    class="fixed z-[9999] top-[4rem] bg-[#fff] h-screen w-[70vw] md:w-[30vw] p-3 pt-5 shadow-md"
+    class="fixed z-[9999] top-[4rem] bg-[#fff] h-screen w-[80vw] md:w-[30vw] p-3 pt-5 shadow-md"
   >
+
+  <SquareX  @click="emit('closeModal')" class="text-red-500 cursor-pointer" size="28"/>
     <div v-if="items.length" class="h-screen">
-      <div class="flex-1 overflow-y-auto pr-1 h-[60%] overflow-hidden">
+      <div class="flex-1 overflow-y-auto pr-1 h-[60%] overflow-hidden w-full">
         <div>
           <BasketItem
             v-for="(item, index) in items"
@@ -12,12 +14,12 @@
           />
         </div>
       </div>
-        <div class="">
+        <div class="w-full flex justify-between md:px-5">
           <div>
             <p class="text-gray-400">مبلغ قابل پرداخت:</p>
             <span class="text-xl font-bold">{{ totalPrice.toLocaleString("fa-IR") }}</span>
           </div>
-          <UiBaseBadge label="پرداخـــــت" class="text-[18px] font-bold py-3 px-8 cursor-pointer"/>
+          <UiBaseBadge label="پرداخـــــت" class="text-[18px] font-bold py-3 px-3 md:px-8 cursor-pointer"/>
         </div>
     </div>
     <div v-else class="flex flex-col justify-center items-center h-[80%]">
@@ -29,12 +31,12 @@
 
 <script setup>
 import BasketItem from "./BasketItem.vue";
-import { ShoppingBasket } from "lucide-vue-next";
+import { ShoppingBasket,SquareX } from "lucide-vue-next";
 
 const basket = useBasket();
 const items = reactive(basket.items);
-
 const totalPrice = ref(basket.totalPrice);
+const emit = defineEmits('closeModal')
 
 watch(items, () => {
   totalPrice.value = basket.totalPrice;

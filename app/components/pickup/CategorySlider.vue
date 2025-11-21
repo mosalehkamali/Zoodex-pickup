@@ -5,14 +5,14 @@
       v-for="(value, key) in categorys"
       :key="key"
       @click="store.setCategory(value)"
-      class="flex flex-col justify-center items-center"
+      class="flex flex-col justify-center items-center cursor-pointer"
     >
       <img
         :src="`/images/category/${key}.png`"
         class="size-20 object-contain"
         alt="category-pic"
       />
-      <span>{{ value }}</span>
+      <span class="font-bold">{{ value }}</span>
     </div>
   </div>
   
