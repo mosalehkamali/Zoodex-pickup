@@ -17,7 +17,7 @@
         <div class="w-full flex justify-between md:px-5">
           <div>
             <p class="text-gray-400">مبلغ قابل پرداخت:</p>
-            <span class="text-xl font-bold">{{ totalPrice.toLocaleString("fa-IR") }}</span>
+            <span class="text-xl font-bold">{{ totalPrice.toLocaleString("fa-IR") }} تومان</span>
           </div>
           <UiBaseBadge label="پرداخـــــت" class="text-[18px] font-bold py-3 px-3 md:px-8 cursor-pointer"/>
         </div>
