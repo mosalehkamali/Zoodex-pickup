@@ -12,7 +12,7 @@ import { ref, onMounted, watch, computed, onBeforeUnmount } from 'vue'
 import { useRestaurants } from "~/stores/useRestaurants";
 
 const store = useRestaurants()
-const restaurants = ref(store.filteredRestaurants)
+const restaurants = computed(() => store.filteredRestaurants)
 
 const markers = computed(() =>
   restaurants.value.map(res => ({
@@ -80,11 +80,7 @@ function addMarkers(list) {
   });
 }
 
-watch(
-  () =>   () => store.filteredRestaurants,
-  (newVal) => addMarkers(newVal),
-  { deep: true }
-)
+watch(markers, addMarkers, { deep: true })
 </script>
 
 
