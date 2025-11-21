@@ -40,7 +40,7 @@
 </template>
 
 <script setup>
-import { ShoppingCart, CircleUserRound } from "lucide-vue-next";
+import { ShoppingCart} from "lucide-vue-next";
 import { useBasket } from "~/stores/useBasket";
 import { useAuth } from "~/stores/useAuth";
 import BasketModal from "../basket/BasketModal.vue";
@@ -61,7 +61,6 @@ const showLogin = ref(false);
 
 const handleLogin = (data) => {
   authStore.login(data.email, data.password);
-  console.log([data.email, data.password]);
 
   showLogin.value = false;
 };

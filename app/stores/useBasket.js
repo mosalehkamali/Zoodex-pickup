@@ -41,10 +41,6 @@ export const useBasket = defineStore("basket", {
       this.saveToLocalStorage()
     },
     
-    clearBasket(){
-      this.items = []
-      this.saveToLocalStorage()
-    },
     setItems(){
       const basket= JSON.parse(localStorage.getItem("basket") || "[]")
       this.items = basket
@@ -63,16 +59,6 @@ export const useBasket = defineStore("basket", {
         })
         return totalPrice;
     },
-
-    itemTotalPrice:(id)=>{
-      const item = this.items.find((i) => i.id === id)
-      if(item){
-        const itemTotalPrice = item.quantity *item.price
-        return itemTotalPrice;
-      }else{
-        return 0;
-      }
-    }
 
   }
 });
