@@ -11,4 +11,13 @@ export default defineNuxtConfig({
   },
 
   modules: ["@pinia/nuxt"],
+
+  app: {
+    head: {
+      title: "Zoodex - Pickup",
+      link: [
+        { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
+      ],
+    },
+  },
 });
