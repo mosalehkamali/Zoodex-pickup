@@ -64,7 +64,7 @@ export const useBasket = defineStore("basket", {
         return totalPrice;
     },
 
-    itemTotalPrice(id){
+    itemTotalPrice:(id)=>{
       const item = this.items.find((i) => i.id === id)
       if(item){
         const itemTotalPrice = item.quantity *item.price
